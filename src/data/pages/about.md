@@ -4,7 +4,7 @@ description: 'About the creator of Brown Girl Book Lover - Leslie-Ann Murray'
 header: 'About'
 blockQuote:
   image:
-    src: /imgs/girl-book.jpeg
+    src: /imgs/girl-book.webp
     alt: Brooklyn
   quote: Sometimes when you like where you end up, you don't care how you got there.
   book: An American Marriage
