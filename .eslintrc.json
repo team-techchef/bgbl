@@ -5,7 +5,7 @@
   ],
   "plugins": ["react", "import"],
   "rules": {
-    "react/react-in-jsx-scope": "on"
+    "react/react-in-jsx-scope": "off"
   },
   "globals": {
     "React": "writable"
