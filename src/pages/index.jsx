@@ -65,7 +65,6 @@ const Home = ({ data }) => {
                   })}
                 </div>
               )}
-              {console.log(JSON.stringify(obj.list.newsletters?.length))}
             </AccordionPanel>
           );
         })}
