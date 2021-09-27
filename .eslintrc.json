@@ -3,7 +3,7 @@
     "eslint:recommended",
     "plugin:@next/next/recommended"
   ],
-  "plugins": ["react", "import"],
+  "plugins": ["react"],
   "rules": {
     "react/react-in-jsx-scope": "off"
   },
