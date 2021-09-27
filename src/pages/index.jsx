@@ -3,16 +3,14 @@ import { getPageProps } from 'util/api';
 import { motion } from 'framer-motion';
 import { pageVariants } from 'util/motionVariants';
 import Accordion from 'components/accordion/accordion';
-import AccordionPanel from 'components/accordionPanel/accordionPanel';
+import Panel from 'components/Panel/Panel';
 import BlockQuote from 'components/blockQuote/blockQuote';
 import CtaBtn from 'components/cta-btn/ctaBtn';
 import CardCta from 'components/cardCta/cardCta';
 import GroupLayout from 'components/groupLayout/groupLayout';
 import Link from 'next/link';
-import PlaceholderBlock from 'components/placeholderBlock/PlaceholderBlock';
-import AccNotice from 'components/accNotice/AccNotice';
 import NBWD from 'components/NBWD/NBWD';
-import CGTD from 'components/CGTD/CGTD';
+import AccNotice from 'components/accNotice/AccNotice';
 
 const Home = ({ data }) => {
   const { mainHeader, drawer, blockQuote, callToActionCards = [] } = data;
@@ -31,11 +29,8 @@ const Home = ({ data }) => {
       <Accordion>
         {drawer.map((obj, i) => {
           return (
-            <AccordionPanel
-              idx={`ap${i}`}
-              key={`ACC${i}`}
-              title={obj?.list?.label}
-            >
+            <Panel idx={`ap${i}`} key={`ACC${i}`} title={obj?.list?.label}>
+              {obj?.list?.notice && <AccNotice>{obj.list.notice}</AccNotice>}
               {obj.list.id === 'nbwd' ? (
                 <div className={styles['drawer-container']}>
                   {obj?.list?.books?.map((bk, x) => {
@@ -50,22 +45,23 @@ const Home = ({ data }) => {
                     );
                   })}
                 </div>
-              ) : (
-                <div className={styles['drawer-container']}>
-                  {obj?.list?.newsletters?.map((nl, x) => {
-                    return (
-                      <CGTD
-                        key={`${i}nl${x}`}
-                        title={nl.title}
-                        link={nl.link}
-                        src={nl.img}
-                        // alt={bk?.alt}
-                      />
-                    );
-                  })}
-                </div>
-              )}
-            </AccordionPanel>
+              ) : // ) : (
+              //   <div className={styles['drawer-container']}>
+              //     {obj?.list?.newsletters?.map((nl, x) => {
+              //       return (
+              //         <CGTD
+              //           key={`${i}nl${x}`}
+              //           title={nl.title}
+              //           link={nl.link}
+              //           src={nl.img}
+              //           // alt={bk?.alt}
+              //         />
+              //       );
+              //     })}
+              //   </div>
+              // )}
+              null}
+            </Panel>
           );
         })}
       </Accordion>
