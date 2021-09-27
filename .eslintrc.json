@@ -1,11 +1,10 @@
 {
   "extends": [
     "eslint:recommended"
-    
   ],
-  "plugins": ["react"],
+  "plugins": ["react", "import"],
   "rules": {
-    "react/react-in-jsx-scope": "off"
+    "react/react-in-jsx-scope": "on"
   },
   "globals": {
     "React": "writable"
