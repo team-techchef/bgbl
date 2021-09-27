@@ -1,11 +1,9 @@
 {
   "extends": [
-    "eslint:recommended",
-    "plugin:react/recommended",
-    "plugin:prettier/recommended",
-    "plugin:prettier/react"
+    "eslint:recommended"
+    
   ],
-  "plugins": ["react", "prettier"],
+  "plugins": ["react"],
   "rules": {
     "react/react-in-jsx-scope": "off"
   },
