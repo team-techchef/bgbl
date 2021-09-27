@@ -16,34 +16,34 @@ reviews:
     - title: Monstress, Lysley Tenorio
       date: Apr 23, 2019
       poster:
-        src: https://i3.ytimg.com/vi/kJCSxnCHlN0/hqdefault.jpg
+        src: https://i3.ytimg.com/vi/kJCSxnCHlN0/hqdefault.webp
         alt: Crystelle Mourning by Eisa Nefertari Ulen review
       videoLink: https://www.youtube.com/embed/kJCSxnCHlN0
     - title: American Street, Ibi Zoboi.
       date: Apr 19, 2019
       poster:
-        src: https://i3.ytimg.com/vi/KLMhMYJokHM/hqdefault.jpg
+        src: https://i3.ytimg.com/vi/KLMhMYJokHM/hqdefault.webp
         alt: American Street by writer Ibi Zoboi review
       videoLink: https://www.youtube.com/embed/KLMhMYJokHM
     - title: Whatever Happened to Interacial Love, Kathleen Collins
       date: Nov 11, 2019
       poster:
-        src: https://i3.ytimg.com/vi/Wx1IsDh1gqw/hqdefault.jpg
+        src: https://i3.ytimg.com/vi/Wx1IsDh1gqw/hqdefault.webp
         alt: Whatever Happened to Interacial Love review
       videoLink: https://www.youtube.com/embed/Wx1IsDh1gqw
     - title: Empathy & Literature
       poster:
-        src: https://img.youtube.com/vi/Mwcx3WlCAf0/hqdefault.jpg
+        src: https://img.youtube.com/vi/Mwcx3WlCAf0/hqdefault.webp
         alt: Empathy & Literature
       videoLink: https://www.youtube.com/embed/Mwcx3WlCAf0
     - title: The World According to Fannie Davis, Bridget Davis
       poster:
-        src: https://img.youtube.com/vi/WEIVdqXbMIU/hqdefault.jpg
+        src: https://img.youtube.com/vi/WEIVdqXbMIU/hqdefault.webp
         alt: The World According to Fannie Davis
       videoLink: https://www.youtube.com/embed/WEIVdqXbMIU
     - title: A House on Mango Street, Sanda Cisneros
       poster:
-        src: https://img.youtube.com/vi/cfmCTHKq9zE/hqdefault.jpg
+        src: https://img.youtube.com/vi/cfmCTHKq9zE/hqdefault.webp
         alt: A House on Mango Street, Sanda Cisneros
       videoLink: https://www.youtube.com/embed/cfmCTHKq9zE
 interviews:
@@ -51,27 +51,27 @@ interviews:
   videos:
     - title: Eisa N. Ulen, Crystelle Mourning
       poster:
-        src: https://i3.ytimg.com/vi/fVJ-Rf8GuCk/hqdefault.jpg
+        src: https://i3.ytimg.com/vi/fVJ-Rf8GuCk/hqdefault.webp
         alt: Crystelle Mourning by Eisa Nefertari Ulen
       videoLink: https://www.youtube.com/embed/fVJ-Rf8GuCk
     - title: Jonathan Corcoran, The Rope Swing
       poster:
-        src: https://img.youtube.com/vi/J9P4OptTMgQ/hqdefault.jpg
+        src: https://img.youtube.com/vi/J9P4OptTMgQ/hqdefault.webp
         alt: Jonothan Corcoran, The Rope Swing
       videoLink: https://www.youtube.com/embed/J9P4OptTMgQ
     - title: Keisha-Gaye Anderson, Everything is Necessary
       poster:
-        src: https://img.youtube.com/vi/hYIKwPCcBo0/hqdefault.jpg
+        src: https://img.youtube.com/vi/hYIKwPCcBo0/hqdefault.webp
         alt: Keisha-Gaye Anderson, Everything is Necessary
       videoLink: https://www.youtube.com/embed/hYIKwPCcBo0
     - title: Maisy Card, These Ghosts Are Family
       poster:
-        src: https://img.youtube.com/vi/UZm5QlnWTB8/hqdefault.jpg
+        src: https://img.youtube.com/vi/UZm5QlnWTB8/hqdefault.webp
         alt: Maisy Card, These Ghosts Are Family
       videoLink: https://www.youtube.com/embed/UZm5QlnWTB8
     - title: Dickson Lam, Paper Sons
       poster:
-        src: https://img.youtube.com/vi/MAA6aZ7Y6IM/hqdefault.jpg
+        src: https://img.youtube.com/vi/MAA6aZ7Y6IM/hqdefault.webp
         alt: Dickson Lam, Paper Sons
       videoLink: https://www.youtube.com/embed/MAA6aZ7Y6IM
 ---
