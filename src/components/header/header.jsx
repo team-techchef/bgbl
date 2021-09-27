@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import styles from './header.module.scss';
-import DrawerMenu from '../drawerMenu/drawerMenu';
+import DrawerMenu from 'components/drawerMenu/drawerMenu';
 import { useRef } from 'react';
 import { useDisclosure } from '@chakra-ui/core';
 import { IoIosMenu } from 'react-icons/io';

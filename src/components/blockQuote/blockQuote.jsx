@@ -1,5 +1,5 @@
 import styles from './blockQuote.module.scss';
-import Image from '../image/image';
+import Image from 'components/image/image';
 import { FaQuoteLeft, FaQuoteRight } from 'react-icons/fa';
 
 const BlockQuote = ({ image, quote, book, author, location }) => (

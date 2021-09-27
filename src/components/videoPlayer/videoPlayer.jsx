@@ -1,5 +1,5 @@
 import styles from './videoPlayer.module.scss';
-import Image from '../image/image';
+import Image from 'components/image/image';
 import { FaPlay } from 'react-icons/fa';
 import {
   Modal,

@@ -1,6 +1,6 @@
 import Head from 'next/head';
-import Footer from '../footer/footer';
-import Header from '../header/header';
+import Footer from 'components/footer/footer';
+import Header from 'components/header/header';
 import styles from './layout.module.scss';
 import { useRouter } from 'next/router';
 

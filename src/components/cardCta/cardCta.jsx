@@ -1,4 +1,4 @@
-import Image from '../image/image';
+import Image from 'components/image/image';
 import styles from './cardCta.module.scss';
 import { forwardRef } from 'react';
 

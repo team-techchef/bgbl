@@ -1,6 +1,6 @@
 import styles from './footer.module.scss';
 import { FaFacebookF, FaInstagram, FaYoutube } from 'react-icons/fa';
-import Newsletter from '../Newsletter/Newsletter';
+import Newsletter from 'components/newsletter/Newsletter';
 
 const Footer = () => (
   <footer className={styles['jsx-footer']}>

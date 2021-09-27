@@ -1,4 +1,4 @@
-import Image from '../image/image';
+import Image from 'components/image/image';
 import styles from './tileGroup.module.scss';
 
 const TileGroup = ({ tiles = [] }) => {

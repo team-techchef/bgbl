@@ -1,4 +1,4 @@
-import Image from '../image/image';
+import Image from 'components/image/image';
 import styles from './bookTile.module.scss';
 
 const BookTile = ({ title, src, alt, link, ytLink }) => (

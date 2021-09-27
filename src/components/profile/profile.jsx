@@ -1,5 +1,5 @@
 import styles from './profile.module.scss';
-import Image from '../image/image';
+import Image from 'components/image/image';
 import ReactMarkdown from 'react-markdown';
 
 const Profile = ({ markup, image }) => (
