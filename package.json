@@ -1,5 +1,5 @@
 {
-  "name": "bg-book-lover",
+  "name": "bgbl",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,6 @@
     "start": "next start -p 5000",
     "static-build": "next build && next export",
     "serve": "npx serve out/",
-    "ngrok": "ngrok http 5000 -host-header=\"localhost:5000\" -hostname=dev.seanreichel.com",
     "stylelint": "stylelint \"src/**/*.scss\" --fix",
     "lint": "eslint --ext .js,.jsx,.ts,.tsx"
   },
@@ -23,7 +22,6 @@
     "framer-motion": "^2.1.4",
     "gray-matter": "^4.0.2",
     "next": "^11.1.0",
-    "next-tinacms-github": "^1.1.11",
     "normalize-scss": "^7.0.1",
     "raw-loader": "^4.0.1",
     "react": "^17.0.2",
