@@ -1,0 +1,18 @@
+@import '../../themes/theme';
+
+.container {
+  left: 50%;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.header {
+  font-size: $spacing-700;
+  font-weight: bold;
+}
+
+.message {
+  font-size: $spacing-300;
+}

@@ -1,0 +1,69 @@
+@import '../../themes/theme';
+
+.blockquote {
+  background-color: rgba($neutral-500, 0.7);
+  border-radius: $spacing-50;
+  color: $text-color-100;
+  overflow: hidden;
+  padding: $spacing-300 $spacing-200;
+  position: relative;
+  text-align: center;
+  width: 100%;
+  grid-column: 1 / span 3;
+
+  p {
+    font-size: $font-size-500;
+    margin: auto;
+    max-width: $bp-400;
+  }
+
+  footer {
+    font-size: $font-size-200;
+    margin-top: $spacing-200;
+  }
+}
+
+.img-container {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+
+  img {
+    mix-blend-mode: multiply;
+  }
+}
+
+.quote {
+  display: inline-block;
+  margin: $spacing-100;
+
+  svg {
+    display: inline-block;
+  }
+
+  &.left > svg {
+    transform: translateY(-$spacing-150);
+  }
+
+  &.right > svg {
+    transform: translateY($spacing-150);
+  }
+}
+
+@media screen and (min-width: $bp-300) {
+  .blockquote {
+    padding: $spacing-600 $spacing-300;
+
+    p {
+      font-size: $font-size-600;
+    }
+
+    footer {
+      font-size: $font-size-300;
+      margin-top: $spacing-300;
+    }
+  }
+}

@@ -1,0 +1,62 @@
+@import '../../themes/theme';
+
+.profile {
+  background-color: $primary-100;
+  border-radius: $spacing-50;
+  color: $text-color-100;
+  font-size: $font-size-200;
+  padding: $spacing-300;
+
+  h2 {
+    font-size: $font-size-500;
+    font-weight: $font-weight-bold;
+    margin: $spacing-200 0;
+  }
+}
+
+.img-container {
+  border-radius: 50%;
+  height: 0;
+  overflow: hidden;
+  padding-top: 100%;
+  position: relative;
+  shape-outside: circle();
+  width: 100%;
+
+  img {
+    position: absolute;
+    top: 0;
+  }
+}
+
+@media screen and (min-width: $bp-100) {
+  .profile {
+    h2 {
+      margin-top: 0;
+    }
+  }
+
+  .img-container {
+    float: left;
+    margin-bottom: $spacing-200;
+    margin-right: $spacing-200;
+    padding-top: 15rem;
+    width: 15rem;
+  }
+}
+
+@media screen and (min-width: $bp-200) {
+  .profile {
+    font-size: $font-size-300;
+    padding: $spacing-400;
+
+    h2 {
+      font-size: $font-size-600;
+    }
+  }
+
+  .img-container {
+    margin-bottom: $spacing-300;
+    margin-right: $spacing-300;
+  }
+}

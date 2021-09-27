@@ -1,0 +1,41 @@
+@import '../../themes/theme';
+
+.card {
+  border-radius: $spacing-50;
+  overflow: hidden;
+  width: 100%;
+
+  .link {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: stretch;
+    width: 100%;
+  }
+
+  figcaption {
+    background-color: $primary-100;
+    color: $text-color-100;
+    height: 100%;
+    padding: $spacing-300 $spacing-200;
+    width: 100%;
+  }
+}
+
+.img-container {
+  height: 0;
+  overflow: hidden;
+  padding-top: 100%;
+  position: relative;
+  width: 100%;
+
+  img {
+    position: absolute;
+    top: 0;
+    transition: transform 0.3s ease-in;
+  }
+
+  img:hover {
+    transform: scale(1.2);
+  }
+}

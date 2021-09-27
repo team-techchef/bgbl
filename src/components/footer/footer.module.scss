@@ -1,0 +1,59 @@
+@import '../../themes/theme';
+
+.jsx-footer {
+  background-color: $primary-100;
+  padding: 1rem 15%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 6rem;
+}
+
+.inner-container {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  height: 100%;
+  margin: auto;
+  max-width: $bp-500;
+}
+
+.copyright {
+  color: $white-100;
+  font-size: $font-size-300;
+}
+
+.social {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+
+  a {
+    align-items: center;
+    background-color: $white-100;
+    border-radius: 50%;
+    display: flex;
+    font-size: $font-size-400;
+    height: $spacing-500;
+    justify-content: center;
+    width: $spacing-500;
+  }
+
+  a:not(:last-of-type) {
+    margin-right: $spacing-200;
+  }
+}
+
+@media screen and (max-width: $bp-300) {
+  .jsx-footer {
+    flex-direction: column-reverse;
+    justify-content: space-between;
+  }
+  .social {
+    justify-content: center;
+    margin: 0.8rem auto;
+  }
+  .copyright {
+    text-align: center;
+  }
+}

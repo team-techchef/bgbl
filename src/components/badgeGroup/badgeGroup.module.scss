@@ -1,0 +1,28 @@
+@import '../../themes/theme';
+
+.container {
+  display: grid;
+  grid-gap: 24px 16px;
+  grid-template-columns: repeat(auto-fit, minmax(150px, auto));
+}
+
+.badge {
+  border-radius: $spacing-50;
+  box-sizing: border-box;
+  color: $text-color-100;
+  font-size: $font-size-300;
+  padding: $spacing-300;
+  width: 100%;
+
+  &:nth-of-type(1n) {
+    background-color: $tertiary-300;
+  }
+
+  &:nth-of-type(2n) {
+    background-color: $primary-100;
+  }
+
+  &:nth-of-type(3n) {
+    background-color: $tertiary-200;
+  }
+}

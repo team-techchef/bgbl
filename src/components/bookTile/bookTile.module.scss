@@ -1,0 +1,31 @@
+@import '../../themes/theme';
+
+.tile {
+  width: 100%;
+}
+
+.link {
+  display: block;
+  width: 100%;
+}
+
+.title {
+  background-color: $tertiary-200;
+  box-sizing: border-box;
+  color: $text-color-100;
+  font-size: $font-size-300;
+  margin-bottom: $spacing-100;
+  padding: $spacing-50 $spacing-100;
+}
+
+.img {
+  height: 0;
+  padding-top: (5/3) * 100%;
+  position: relative;
+  width: 100%;
+
+  img {
+    position: absolute;
+    top: 0;
+  }
+}

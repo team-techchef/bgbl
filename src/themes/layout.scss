@@ -1,0 +1,9 @@
+@import 'spacing';
+
+$container-width: 56rem;
+
+// 90rem = 1440px
+// this is the max-width being used throughout the design
+$container-max-width: 90rem;
+$container-padding: 0 $spacing-400;
+$container-padding-small: 0 $spacing-200;

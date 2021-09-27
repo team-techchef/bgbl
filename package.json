@@ -1,0 +1,59 @@
+{
+  "name": "bg-book-lover",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 8080",
+    "build": "next build",
+    "start": "next start -p 5000",
+    "static-build": "next build && next export",
+    "serve": "npx serve out/",
+    "ngrok": "ngrok http 5000 -host-header=\"localhost:5000\" -hostname=dev.seanreichel.com",
+    "stylelint": "stylelint \"src/**/*.scss\" --fix",
+    "lint": "eslint --ext .js,.jsx,.ts,.tsx"
+  },
+  "dependencies": {
+    "@auth0/auth0-react": "^1.0.0",
+    "@auth0/nextjs-auth0": "^1.5.0",
+    "@chakra-ui/core": "^0.8.0",
+    "@emotion/core": "^10.0.28",
+    "@emotion/styled": "^10.0.27",
+    "dotenv": "^8.2.0",
+    "emotion-theming": "^10.0.27",
+    "framer-motion": "^2.1.4",
+    "gray-matter": "^4.0.2",
+    "next": "^11.1.0",
+    "next-tinacms-github": "^1.1.11",
+    "normalize-scss": "^7.0.1",
+    "raw-loader": "^4.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^3.10.0",
+    "react-markdown": "^7.0.1",
+    "react-responsive-carousel": "^3.2.21",
+    "remark": "^14.0.1",
+    "remark-html": "^12.0.0",
+    "sass": "^1.26.10",
+    "styled-components": "^5.1.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.5",
+    "eslint": "^7.5.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.3",
+    "globby": "^11.0.1",
+    "hygen-next-tinacms-github": "https://github.com/dwalkr/hygen-next-tinacms-github",
+    "postcss": "^7.0.32",
+    "postcss-loader": "^3.0.0",
+    "prettier": "^2.0.5",
+    "stylelint": "^13.6.1",
+    "stylelint-config-sass-guidelines": "^7.0.0",
+    "stylelint-order": "^4.1.0"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ]
+}

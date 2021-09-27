@@ -1,0 +1,10 @@
+@import '../../themes/theme';
+
+.body {
+  box-sizing: border-box;
+  margin: auto;
+  max-width: $bp-500 + $spacing-300 * 2;
+  min-height: calc(100vh - 11.25rem);
+  padding: $spacing-300;
+  position: relative;
+}

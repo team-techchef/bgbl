@@ -1,0 +1,53 @@
+@import '../../themes/theme';
+
+.video {
+  border-radius: $spacing-50;
+  font-size: 0;
+  overflow: hidden;
+  width: 100%;
+
+  figcaption {
+    background-color: $secondary-100;
+    box-sizing: border-box;
+    color: $text-color-200;
+    font-size: $font-size-400;
+    padding: $spacing-100 $spacing-200;
+    text-align: center;
+    width: 100%;
+  }
+}
+
+.poster {
+  height: 0;
+  padding-top: calc((9 / 16) * 100%);
+  position: relative;
+  width: 100%;
+
+  img {
+    position: absolute;
+    top: 0;
+  }
+}
+
+.play {
+  color: $secondary-100;
+  font-size: $font-size-700;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+
+.yt-container {
+  height: 0;
+  max-width: $bp-400;
+  padding-top: calc((9 / 16) * 100%);
+  position: relative;
+  width: 100%;
+
+  iframe {
+    position: absolute;
+    top: 0;
+  }
+}

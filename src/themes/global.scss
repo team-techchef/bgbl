@@ -1,0 +1,39 @@
+@import '../../node_modules/normalize-scss/sass/normalize';
+@import './theme';
+
+@include normalize();
+
+body {
+  font-family: $font-family;
+
+  .header-1 {
+    color: $tertiary-200;
+    font-size: $font-size-500;
+    font-style: italic;
+    font-weight: normal;
+    text-align: end;
+  }
+
+  .header-two {
+    color: $tertiary-200;
+    font-size: $font-size-400;
+    font-weight: $font-weight-bold;
+    margin-bottom: $spacing-200;
+  }
+
+  p {
+    margin-bottom: 16px;
+  }
+}
+
+@media screen and (min-width: $bp-300) {
+  body {
+    .header-1 {
+      font-size: $font-size-600;
+    }
+
+    .header-two {
+      font-size: $font-size-500;
+    }
+  }
+}

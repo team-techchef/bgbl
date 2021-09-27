@@ -1,0 +1,14 @@
+@import 'themes/theme';
+
+.cta {
+  background-color: $tertiary-200;
+  border-radius: 0.25rem;
+  box-sizing: border-box;
+  color: $text-color-100;
+  display: block;
+  font-size: $font-size-300;
+  margin: auto;
+  max-width: 18.75rem;
+  padding: $spacing-200 $spacing-400;
+  text-align: center;
+}

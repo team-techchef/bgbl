@@ -1,0 +1,54 @@
+// style guide color scales
+$black-50: rgb(250, 250, 250);
+$black-100: rgb(246, 246, 246);
+$black-200: rgb(219, 219, 219);
+$black-300: rgb(153, 153, 153);
+$black-400: rgb(112, 112, 112); // ADA
+$black-500: rgb(92, 92, 92);
+$black-600: rgb(68, 68, 68);
+$black-700: rgb(51, 51, 51);
+$black-800: rgb(38, 35, 35);
+$black-900: rgb(35, 31, 32);
+$black-1000: rgb(0, 0, 0);
+
+$blue-25: rgb(241, 248, 248);
+$blue-50: rgb(229, 242, 242);
+$blue-100: rgb(186, 218, 217);
+$blue-200: rgb(144, 194, 192);
+$blue-300: rgb(112, 179, 175);
+$blue-400: rgb(75, 149, 146);
+$blue-500: rgb(0, 126, 126); // ADA
+$blue-600: rgb(0, 98, 98);
+$blue-700: rgb(0, 85, 85);
+$blue-800: rgb(0, 66, 66);
+$blue-900: rgb(0, 37, 37);
+
+$red-50: rgb(249, 226, 217);
+$red-100: rgb(240, 186, 166);
+$red-200: rgb(233, 156, 127);
+$red-300: rgb(224, 116, 76);
+$red-400: rgb(216, 76, 25);
+$red-500: rgb(212, 57, 0); // ADA
+$red-600: rgb(194, 34, 0);
+$red-700: rgb(176, 12, 0);
+$red-800: rgb(161, 7, 0);
+$red-900: rgb(146, 2, 0);
+
+$green-50: rgb(247, 249, 232);
+$green-100: rgb(227, 235, 186);
+$green-200: rgb(202, 220, 139);
+$green-300: rgb(172, 204, 95);
+$green-400: rgb(137, 186, 52);
+$green-500: rgb(100, 167, 11);
+$green-600: rgb(47, 134, 34); // ADA
+$green-700: rgb(30, 119, 35);
+$green-800: rgb(24, 103, 44);
+$green-900: rgb(26, 86, 51);
+
+$yellow: rgb(253, 183, 25);
+
+$white-100: rgb(255, 255, 255);
+
+// transparent
+$black-1000-t: rgba($black-1000, 0.5);
+$white-100-t: rgba($white-100, 0.9);

@@ -1,0 +1,58 @@
+@import '../../themes/theme';
+
+.about {
+  color: $text-color-200;
+  font-size: $font-size-400;
+  margin: auto;
+  text-align: center;
+}
+
+.layout {
+  display: grid;
+  grid-row-gap: $spacing-400;
+}
+
+@media screen and (min-width: $bp-200) {
+  .layout {
+    grid-row-gap: $spacing-600;
+  }
+}
+
+@media screen and (min-width: $bp-300) {
+  .header {
+    grid-area: header;
+  }
+
+  .desc {
+    grid-area: dec;
+  }
+
+  .profile {
+    grid-area: profile;
+  }
+
+  .author-facts {
+    grid-area: author;
+  }
+
+  .site-facts {
+    grid-area: site;
+  }
+
+  .layout {
+    display: grid;
+    grid-column-gap: $spacing-300;
+    grid-template-areas:
+      'header header header'
+      'dec dec dec'
+      'author profile profile'
+      'site site site';
+    grid-template-columns: 1fr 1fr 21.875rem;
+  }
+}
+
+@media screen and (min-width: $bp-400) {
+  .layout {
+    grid-column-gap: $spacing-500;
+  }
+}

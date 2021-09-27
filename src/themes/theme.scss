@@ -1,0 +1,47 @@
+@import './colors';
+@import './fonts';
+@import './spacing';
+@import './layout';
+
+// brand primary
+$primary-100: rgb(11, 79, 108);
+
+// brand secondary
+$secondary-100: rgb(191, 208, 218);
+
+// brand tertiary
+$tertiary-100: rgb(203, 170, 134);
+$tertiary-200: rgb(112, 78, 46);
+$tertiary-300: rgb(37, 34, 31);
+
+// neutrals
+$neutral-100: $black-200;
+$neutral-200: $black-300;
+$neutral-300: $black-400;
+$neutral-400: $black-700;
+$neutral-500: $black-800;
+
+// validation
+$validation-red: $red-800;
+$validation-green: $green-600;
+$validation-yellow: $yellow;
+
+// basic
+$grey: $black-500;
+$black: $black-700;
+$white: $white-100;
+
+// text
+$text-color-100: rgb(255, 255, 255);
+$text-color-200: rgb(11, 79, 108);
+$text-color-300: rgb(222, 196, 166);
+
+// typography
+$main-font-family: $font-family;
+
+//break point
+$bp-100: 450px;
+$bp-200: 600px;
+$bp-300: 56.25rem; //900px
+$bp-400: 1200px;
+$bp-500: 85rem; //1360px

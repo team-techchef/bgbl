@@ -1,0 +1,89 @@
+@import '../../themes/theme';
+
+.layout {
+  display: grid;
+  grid-row-gap: $spacing-400;
+}
+
+.card-container {
+  display: grid;
+  grid-column-gap: $spacing-200;
+  grid-row-gap: $spacing-400;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+}
+
+.carousel-container {
+  height: 24rem;
+  background-color: black;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+
+  .carousel_image {
+    max-height: 24rem;
+  }
+}
+
+// make this a component
+// minus the margin-top
+.card-btn {
+  background-color: $white;
+  border-radius: $spacing-50;
+  color: $primary-100;
+  display: block;
+  font-size: $font-size-200;
+  margin-top: $spacing-100;
+  padding: $spacing-50 $spacing-200;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.block-section {
+  display: grid;
+  grid-row-gap: $spacing-400;
+
+  blockquote:nth-of-type(1n) {
+    background-color: $tertiary-100;
+    color: $text-color-200;
+  }
+
+  blockquote:nth-of-type(2n) {
+    background-color: $primary-100;
+    color: $text-color-100;
+  }
+
+  blockquote:nth-of-type(3n) {
+    background-color: $tertiary-200;
+    color: $text-color-100;
+  }
+}
+
+@media screen and (min-width: $bp-200) {
+  .layout {
+    grid-row-gap: $spacing-600;
+  }
+
+  .card-container {
+    grid-row-gap: $spacing-600;
+
+    figure {
+      max-width: 40rem;
+    }
+  }
+}
+
+@media screen and (min-width: $bp-300) {
+  .card-container {
+    grid-column-gap: $spacing-300;
+
+    figure {
+      max-width: 31.25rem;
+    }
+  }
+}
+
+@media screen and (min-width: $bp-400) {
+  .card-container {
+    grid-column-gap: $spacing-500;
+  }
+}

@@ -1,0 +1,30 @@
+@import 'themes/theme';
+
+.trigger {
+  border-radius: $spacing-50;
+  color: $text-color-100;
+  font-size: $font-size-500;
+  margin-bottom: $spacing-100;
+  padding: $spacing-50 $spacing-100;
+  width: 100%;
+
+  .title {
+    align-items: center;
+    display: flex;
+  }
+
+  .icon {
+    margin-right: $spacing-100;
+  }
+}
+
+.panel {
+  height: auto;
+  background-color: $tertiary-100;
+  border-radius: $spacing-50;
+  box-sizing: border-box;
+  margin-bottom: $spacing-100;
+  overflow: scroll;
+  padding: $spacing-150 $spacing-100;
+  width: 100%;
+}

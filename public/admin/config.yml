@@ -1,0 +1,71 @@
+backend:
+  name: git-gateway
+  branch: master
+media_folder: public/img
+public_folder: /img
+collections:
+  - name: 'pages'
+    label: 'pages'
+    files:
+      - label: 'Home'
+        name: 'home'
+        file: 'src/data/pages/index.md'
+        fields:
+          - { label: 'Title - SEO', name: 'title', widget: 'string' }
+          - {
+              label: 'Description - SEO',
+              name: 'description',
+              widget: 'string',
+            }
+          - { label: 'Header', name: 'mainHeader', widget: 'string' }
+          - label: 'Quote'
+            name: 'blockQuote'
+            widget: 'object'
+            fields:
+              - { label: 'Quote', name: 'quote', widget: 'string' }
+              - { label: 'Author', name: 'author', widget: 'string' }
+              - { label: 'Link', name: 'link', widget: 'string' }
+              - {
+                  label: 'Book',
+                  name: 'book',
+                  widget: 'string',
+                  required: false,
+                }
+              - {
+                  label: 'Call To Action button',
+                  name: 'cta_text',
+                  widget: 'string',
+                }
+              - label: 'Image'
+                name: 'image'
+                widget: 'object'
+                collapsed: true
+                fields:
+                  - { label: 'Alt', name: 'alt', widget: 'string' }
+                  - { label: 'Src', name: 'src', widget: 'string' }
+          - label: 'Drawer'
+            name: 'drawer'
+            widget: list
+            fields:
+              - { label: 'Label', name: 'label', widget: 'string' }
+              - label: 'Books'
+                name: 'books'
+                widget: 'list'
+                fields:
+                  - { label: 'Title', name: 'title', widget: 'string' }
+                  - { label: 'Link', name: 'link', widget: 'string' }
+                  - { label: 'Image link', name: 'image', widget: 'string' }
+                  - { label: 'Alt', name: 'alt', widget: 'string' }
+          - label: 'Call To Action Cards'
+            name: 'callToActionCards'
+            widget: 'list'
+            fields:
+              - { label: 'Caption', name: 'caption', widget: 'string' }
+              - { label: 'Link', name: 'caption', widget: 'string' }
+              - label: 'Image'
+                name: 'image'
+                widget: 'object'
+                collapsed: true
+                fields:
+                  - { label: 'Alt', name: 'alt', widget: 'string' }
+                  - { label: 'Src', name: 'src', widget: 'string' }

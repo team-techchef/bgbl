@@ -1,0 +1,66 @@
+@import '../../themes/theme';
+
+.form {
+  text-align: center;
+  box-shadow: 0 0 15px rgb(0, 0, 0, 10%);
+  border-radius: 0.125rem;
+  max-width: 56.25rem;
+  position: relative;
+  height: 290px;
+  padding: 40px 70px;
+  background-color: white;
+  transform: translateY(-90px);
+
+  .header {
+    font-size: 1.5rem;
+    color: #704e2e;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+
+  .subheader {
+    font-size: 80%;
+    color: #704e2e;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+
+  .svg_input {
+    width: 20px;
+    height: 25px;
+    position: absolute;
+    left: 5rem;
+    z-index: 1;
+    margin-top: 10px;
+    color: #ddd;
+  }
+
+  .newsletter_email {
+    border: 1px solid #ddd;
+    padding: 0.5rem 1.5rem 0.5rem 2.5rem;
+    width: 100%;
+    border-radius: 0.125rem;
+    &::placeholder {
+      font-size: 0.85rem;
+    }
+  }
+
+  .submit_button {
+    margin-top: 0.5rem;
+    width: 100%;
+    border-radius: 0.125rem;
+    background-color: #673f1a;
+    color: white;
+    padding: 0.5rem;
+  }
+}
+
+@media screen and (max-width: $bp-300) {
+  .form {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    transform: translateY(0px);
+    font-size: 0.8rem;
+  }
+}

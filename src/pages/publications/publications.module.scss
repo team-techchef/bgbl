@@ -1,0 +1,73 @@
+@import '../../themes/theme';
+
+.layout {
+  display: grid;
+  grid-row-gap: $spacing-400;
+}
+
+@media screen and (min-width: $bp-200) {
+  .layout {
+    grid-row-gap: $spacing-600;
+  }
+}
+
+@media screen and (min-width: $bp-300) {
+  .header {
+    grid-area: header;
+  }
+
+  .read {
+    grid-area: read;
+
+    div.read_pubs {
+      display: grid;
+      gap: 2rem;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    }
+  }
+
+  .download {
+    grid-area: download;
+
+    div.download_pubs {
+      display: grid;
+      gap: 2rem;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    }
+  }
+
+  .profile {
+    grid-area: profile;
+  }
+
+  .author-facts {
+    grid-area: author;
+  }
+
+  .site-facts {
+    grid-area: site;
+  }
+
+  .layout {
+    display: grid;
+    grid-column-gap: $spacing-300;
+    grid-template-areas:
+      'header'
+      'read'
+      'download';
+    // grid-template-columns: 1fr 1fr 21.875rem;
+  }
+}
+
+@media screen and (min-width: $bp-400) {
+  .layout {
+    grid-column-gap: $spacing-500;
+  }
+}
+
+.subheader {
+  color: #704e2e;
+  font-size: 1rem;
+  font-weight: 400;
+  text-align: end;
+}

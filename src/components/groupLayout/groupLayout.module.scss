@@ -1,0 +1,9 @@
+@import '../../themes/theme';
+
+.layout {
+  display: grid;
+  grid-column-gap: $spacing-300;
+  grid-row-gap: $spacing-400;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  width: 100%;
+}
