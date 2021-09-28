@@ -30,7 +30,6 @@ const Home = ({ data }) => {
         {drawer.map((obj, i) => {
           return (
             <Panel idx={`ap${i}`} key={`ACC${i}`} title={obj?.list?.label}>
-              {obj?.list?.notice && <AccNotice>{obj.list.notice}</AccNotice>}
               {obj.list.id === 'nbwd' ? (
                 <div className={styles['drawer-container']}>
                   {obj?.list?.books?.map((bk, x) => {
@@ -45,21 +44,7 @@ const Home = ({ data }) => {
                     );
                   })}
                 </div>
-              ) : // ) : (
-              //   <div className={styles['drawer-container']}>
-              //     {obj?.list?.newsletters?.map((nl, x) => {
-              //       return (
-              //         <CGTD
-              //           key={`${i}nl${x}`}
-              //           title={nl.title}
-              //           link={nl.link}
-              //           src={nl.img}
-              //           // alt={bk?.alt}
-              //         />
-              //       );
-              //     })}
-              //   </div>
-              // )}
+              ) : 
               null}
             </Panel>
           );
