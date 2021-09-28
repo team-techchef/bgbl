@@ -24,7 +24,7 @@ tiles:
     author: Guy Deutscher
     image: 
       alt: Carlene with The Unfolding of Language
-      src: /imgs/carlene-reading-now.webps
+      src: /imgs/carlene-reading-now.webp
   - name: Romain
     location: France
     book: Le Choc Des Civilisations
