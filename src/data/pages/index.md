@@ -25,6 +25,9 @@ drawer:
       label: New Book Who Dis?
       notice: Want more diverse books in your life? Check out these interviews with diverse writers who are shifting the literary world.
       books:
+        - title: Tongo
+          link: https://www.youtube.com/watch?v=L7yklnUaIV0
+          img: /imgs/nbwd_tongo.webp
         - title: The Secret Lives of Church Ladies
           link: https://www.youtube.com/watch?v=sh-vnFsiTWU
           img: /imgs/pic1.webp
