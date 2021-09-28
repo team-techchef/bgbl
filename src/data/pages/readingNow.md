@@ -4,6 +4,27 @@ description: >-
   What the book lovers are reading!
 header: What the book lovers are reading!
 tiles:
+  - name: Stana
+    location: Brooklyn, New York
+    book: You Got Anything Stronger?
+    author: Gabrielle Union
+    image: 
+      alt: Stana with You Got Anything Stronger?
+      src: /imgs/stana-reading-now.webp
+  - name: Andre
+    location: Trinidad
+    book: Invisible Man
+    author: Ralph Ellison
+    image:
+      alt: Andre with Invisible Man
+      src: /imgs/andre-reading-now.webp
+  - name: Carlene
+    location: Mayland
+    book: The Unfolding of Language
+    author: Guy Deutscher
+    image: 
+      alt: Carlene with The Unfolding of Language
+      src: /imgs/carlene-reading-now.webps
   - name: Romain
     location: France
     book: Le Choc Des Civilisations
