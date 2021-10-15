@@ -25,6 +25,9 @@ drawer:
       label: New Book Who Dis?
       notice: Want more diverse books in your life? Check out these interviews with diverse writers who are shifting the literary world.
       books:
+        - title: The Ruin of Everything
+          link: https://www.youtube.com/watch?v=G-uj_QftSVk
+          img: /imgs/nbwd_troe.webp
         - title: Blood on the Fog!
           link: https://www.youtube.com/watch?v=L7yklnUaIV0
           img: /imgs/nbwd_tongo.webp
