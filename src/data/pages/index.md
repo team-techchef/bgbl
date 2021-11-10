@@ -51,7 +51,7 @@ drawer:
           img: /imgs/pic3.webp
         - title: 'Revival Season'
           link: https://www.youtube.com/watch?v=FIvfuL7DUx8
-          img: /imgs/new-book6.webp
+          img: /imgs/nbwd_rs.webp
         - title: "Love Child's Hotbed of Occasional Poetry"
           link: https://www.youtube.com/watch?v=VKEp_HEYc1g
           img: /imgs/pic5.webp
