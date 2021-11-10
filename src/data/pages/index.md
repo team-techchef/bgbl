@@ -25,6 +25,15 @@ drawer:
       label: New Book Who Dis?
       notice: Want more diverse books in your life? Check out these interviews with diverse writers who are shifting the literary world.
       books:
+        - title: The Kindest Lie
+          link: https://www.youtube.com/watch?v=p2KKa_DrbYE
+          img: /imgs/nbwd_tkl.webp
+        - title: These Ghosts Are Family
+          link: https://www.youtube.com/watch?v=UZm5QlnWTB8
+          img: /imgs/nbwd_tgaf.webp
+        - title: Your Corner Dark
+          link: https://www.youtube.com/watch?v=YpXmKW-CVwI
+          img: /imgs/nbwd_ycd.webp
         - title: The Ruin of Everything
           link: https://www.youtube.com/watch?v=G-uj_QftSVk
           img: /imgs/nbwd_troe.webp
