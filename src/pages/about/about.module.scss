@@ -8,8 +8,8 @@
 }
 
 .layout {
-  display: grid;
-  grid-row-gap: $spacing-400;
+  display: flex;
+  flex-flow: column nowrap;
 }
 
 @media screen and (min-width: $bp-200) {
