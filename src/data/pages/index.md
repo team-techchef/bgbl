@@ -25,6 +25,9 @@ drawer:
       label: New Book Who Dis?
       notice: Want more diverse books in your life? Check out these interviews with diverse writers who are shifting the literary world.
       books:
+        - title: The Prophets
+          link: https://www.youtube.com/watch?v=bpylBOn4evc
+          img: /imgs/nbwd_tp.webp
         - title: The Kindest Lie
           link: https://www.youtube.com/watch?v=p2KKa_DrbYE
           img: /imgs/nbwd_tkl.webp
