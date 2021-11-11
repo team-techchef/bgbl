@@ -44,8 +44,7 @@ const Home = ({ data }) => {
                     );
                   })}
                 </div>
-              ) : 
-              null}
+              ) : null}
             </Panel>
           );
         })}

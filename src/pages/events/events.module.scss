@@ -1,8 +1,8 @@
 @import '../../themes/theme';
 
 .layout {
-  display: grid;
-  grid-row-gap: $spacing-400;
+  display: flex;
+  flex-flow: column nowrap;
 }
 
 .card-container {
@@ -13,14 +13,22 @@
 }
 
 .carousel-container {
-  height: 24rem;
+  min-height: 24rem;
   background-color: black;
-  width: 50%;
+  max-width: 70%;
   margin-left: auto;
   margin-right: auto;
 
   .carousel_image {
     max-height: 24rem;
+    object-fit: contain;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .carousel-container {
+    max-width: 100%;
+    width: 100%;
   }
 }
 

@@ -1,4 +1,5 @@
 import { getPageProps } from 'util/api';
+import { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import { pageVariants } from 'util/motionVariants';
 import styles from './events.module.scss';
@@ -9,6 +10,15 @@ import { Carousel } from 'react-responsive-carousel';
 import PlaceholderBlock from 'components/placeholderBlock/PlaceholderBlock';
 
 const Events = ({ data }) => {
+  // const [quotes, setQuotes] = useState([null]);
+  // const [topQuote, setTopQuote] = useState([null]);
+
+  const quotes = data?.reviews?.reviews?.map((v, i) => {
+    // if (i === 0) setTopQuote(<BlockQuote key={`bp${i}`} {...v} />);
+    // else setQuotes([quotes, <BlockQuote key={`bp${i}`} {...v} />]);
+    return <BlockQuote key={`bp${i}`} {...v} />;
+  });
+
   return (
     <motion.div
       className={styles.layout}
@@ -18,8 +28,10 @@ const Events = ({ data }) => {
       variants={pageVariants}
     >
       <h1 className="header-1">{data?.header}</h1>
+      {quotes[0] && quotes.shift()}
       <section>
         <h2 className="header-two">{data?.upComingEvent?.title}</h2>
+
         {data?.upComingEvent?.events?.length > 0 ? (
           <div className={styles['card-container']}>
             {data?.upComingEvent?.events?.map((obj, i) => {
@@ -73,9 +85,11 @@ const Events = ({ data }) => {
       <section>
         <h2 className="header-two">{data?.reviews?.title}</h2>
         <div className={styles['block-section']}>
-          {data?.reviews?.reviews?.map((v, i) => (
-            <BlockQuote key={`bp${i}`} {...v} />
-          ))}
+          {quotes}
+          {/* {data?.reviews?.reviews?.map((v, i) => {
+            if (i === 0) setTopQuote(<BlockQuote key={`bp${i}`} {...v} />);
+            else return <BlockQuote key={`bp${i}`} {...v} />;
+          })} */}
         </div>
       </section>
     </motion.div>

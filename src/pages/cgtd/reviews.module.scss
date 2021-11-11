@@ -5,6 +5,13 @@
   grid-row-gap: $spacing-400;
 }
 
+.drawer-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-column-gap: 1rem;
+  grid-row-gap: 2rem;
+}
+
 .video-container {
   display: grid;
   grid-column-gap: $spacing-200;

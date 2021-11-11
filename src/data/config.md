@@ -7,8 +7,8 @@ navLinks:
     name: home
   - href: /about
     name: about
-  - href: /videos
-    name: videos
+  - href: /cgtd
+    name: come get this diversity
   - href: /events
     name: events
   - href: /reading-now

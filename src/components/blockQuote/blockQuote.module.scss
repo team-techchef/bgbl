@@ -9,10 +9,11 @@
   position: relative;
   text-align: center;
   width: 100%;
+  margin-bottom: $spacing-100;
   grid-column: 1 / span 3;
 
   p {
-    font-size: $font-size-500;
+    font-size: clamp($font-size-300, 1vw, $font-size-500);
     margin: auto;
     max-width: $bp-400;
   }
@@ -53,13 +54,16 @@
   }
 }
 
+// @media only screen and (max-width: 768px) {
+//   .carousel-container {
+//     max-width: 100%;
+//     width: 100%;
+//   }
+// }
+
 @media screen and (min-width: $bp-300) {
   .blockquote {
     padding: $spacing-600 $spacing-300;
-
-    p {
-      font-size: $font-size-600;
-    }
 
     footer {
       font-size: $font-size-300;
