@@ -1,10 +1,12 @@
 import { getPageProps } from 'util/api';
 import { motion } from 'framer-motion';
 import { pageVariants } from 'util/motionVariants';
-import VideoPlayer from 'components/videoPlayer/videoPlayer';
+import Panel from 'components/Panel/Panel';
+import BlockQuote from 'components/blockQuote/blockQuote';
+import CGTD from 'components/CGTD/CGTD';
 import styles from './reviews.module.scss';
 
-const Reviews = ({ data }) => (
+const ComeGetThisDiversity = ({ data }) => (
   <motion.div
     className={styles.layout}
     initial="initial"
@@ -15,19 +17,24 @@ const Reviews = ({ data }) => (
     <h1 className="header-1">{data?.header}</h1>
     <section className={styles.section}>
       <h2 className="header-two">{data?.reviews?.title}</h2>
-      <div className={styles['video-container']}>
-        {data?.reviews?.videos.map((v, i) => (
-          <VideoPlayer
-            key={`${v.title}${i}rev`}
-            type={v?.type}
-            image={v.poster}
-            title={v.title}
-            link={v.videoLink}
-          />
-        ))}
-      </div>
+      <BlockQuote {...data?.list?.blockQuote} />
+      <Panel title="Come Get This Diversity">
+        <div className={styles['drawer-container']}>
+          {data?.list?.newsletters?.map((nl, x) => {
+            return (
+              <CGTD
+                key={`nl${x}`}
+                title={nl.title}
+                link={nl.link}
+                src={nl.img}
+                // alt={bk?.alt}
+              />
+            );
+          })}
+        </div>
+      </Panel>
     </section>
-    <section className={styles.section}>
+    {/* <section className={styles.section}>
       <h2 className="header-two">{data?.interviews?.title}</h2>
       <div className={styles['video-container']}>
         {data?.interviews?.videos.map((v, i) => (
@@ -40,10 +47,10 @@ const Reviews = ({ data }) => (
           />
         ))}
       </div>
-    </section>
+    </section> */}
   </motion.div>
 );
 
 export const getStaticProps = async () => getPageProps('reviews');
 
-export default Reviews;
+export default ComeGetThisDiversity;
