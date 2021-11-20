@@ -15,10 +15,10 @@ const Publications = ({ data }) => {
     >
       <h1 className={`header-1 ${styles.header}`}>{data?.header}</h1>
       <section className={styles.read}>
-        <h2 className="header-two">{data.seeWriting.title}</h2>
-        {data.seeWriting.publications?.length > 0 ? (
+        <h2 className="header-two">{data.bookReviews.title}</h2>
+        {data.bookReviews.publications?.length > 0 ? (
           <div className={styles.read_pubs}>
-            {data.seeWriting.publications.map((pub) => {
+            {data.bookReviews.publications.map((pub) => {
               return (
                 <Publication
                   title={pub.title}
@@ -36,10 +36,31 @@ const Publications = ({ data }) => {
         )}
       </section>
       <section className={styles.download}>
-        <h2 className="header-two">{data.downloadWriting.title}</h2>
-        {data.downloadWriting.publications?.length > 0 ? (
+        <h2 className="header-two">{data.essaysArticles.title}</h2>
+        {data.essaysArticles.publications?.length > 0 ? (
           <div className={styles.download_pubs}>
-            {data.downloadWriting.publications.map((pub) => {
+            {data.essaysArticles.publications.map((pub) => {
+              return (
+                <Publication
+                  title={pub.title}
+                  src={pub.image.src}
+                  alt={pub.image.alt}
+                  link={pub.link}
+                  linkText={pub.linkText}
+                  type={pub.type}
+                />
+              );
+            })}
+          </div>
+        ) : (
+          <></>
+        )}
+      </section>
+      <section className={styles.fiction}>
+        <h2 className="header-two">{data.fiction.title}</h2>
+        {data.fiction.publications?.length > 0 ? (
+          <div className={styles.fiction_pubs}>
+            {data.fiction.publications.map((pub) => {
               return (
                 <Publication
                   title={pub.title}

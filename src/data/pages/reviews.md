@@ -10,6 +10,9 @@ list:
   blockQuote:
     quote: 'We die. That may be the meaning of life. But we do language. That may be the measure of our lives.'
     author: Toni Morrison
+    image:
+      src: /imgs/cgtd_quote_bg.webp
+      alt: ''
   newsletters:
     - title: How The One-Armed Sister Sweeps Her House
       link: http://eepurl.com/hCzp5H

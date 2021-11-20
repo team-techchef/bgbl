@@ -35,6 +35,15 @@
       grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     }
   }
+  .fiction {
+    grid-area: fiction;
+
+    div.fiction_pubs {
+      display: grid;
+      gap: 2rem;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    }
+  }
 
   .profile {
     grid-area: profile;
@@ -54,7 +63,8 @@
     grid-template-areas:
       'header'
       'read'
-      'download';
+      'download'
+      'fiction';
     // grid-template-columns: 1fr 1fr 21.875rem;
   }
 }

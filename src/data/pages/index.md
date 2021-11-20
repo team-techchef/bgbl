@@ -40,13 +40,13 @@ drawer:
         - title: The Ruin of Everything
           link: https://www.youtube.com/watch?v=G-uj_QftSVk
           img: /imgs/nbwd_troe.webp
-        - title: Blood on the Fog!
+        - title: Blood on the Fog
           link: https://www.youtube.com/watch?v=L7yklnUaIV0
           img: /imgs/nbwd_tongo.webp
         - title: The Secret Lives of Church Ladies
           link: https://www.youtube.com/watch?v=sh-vnFsiTWU
           img: /imgs/pic1.webp
-        - title: Horsepower
+        - title: Nightstick
           link: https://www.youtube.com/watch?v=0M2vmEd7TB0
           img: /imgs/pic2.webp
         - title: 'How The One-Armed Sister Sweeps Her House'
