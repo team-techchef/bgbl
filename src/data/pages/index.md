@@ -11,7 +11,7 @@ blockQuote:
   quote: Another world is not only possible, she is on her way. On a quiet day, I can hear her breathing.
   book: null
   author: Arundhati Roy
-  link: /videos
+  link: /publications
   cta_text: Recent Book Reviews
 callToActionCards:
   - image:

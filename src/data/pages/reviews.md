@@ -14,6 +14,15 @@ list:
       src: /imgs/cgtd_quote_bg.webp
       alt: ''
   newsletters:
+    - title: The Prophets
+      link: https://mailchi.mp/ca473d424ac4/and-if-you-dont-know-now-you-know?fbclid=IwAR37hHZ5nMhG-PExTzUxjmTOsSR7jBdFtQ8FlqS4u9OJ1J-unFEE_z37T1Y
+      img: /imgs/cgtd_tp.webp
+    - title: The Ruin of Everything
+      link: https://mailchi.mp/6d8a5b7d45c5/the-ruin-of-everything?fbclid=IwAR3sKga2Bs60OYf5DKahhUM8MJXQOx0oHg_VRX6JmdftbZNwQXM-19Wgdns
+      img: /imgs/cgtd_troe.webp
+    - title: Blood on The Fog
+      link: https://mailchi.mp/570a6577eb6b/bringing-you-all-the-literary-heat?fbclid=IwAR0GAkSBRHojpjoOH9K010p3mnb3p_BVbRoSFlvlg833EPwGNetD3v11pNk
+      img: /imgs/cgtd_botf.webp
     - title: How The One-Armed Sister Sweeps Her House
       link: http://eepurl.com/hCzp5H
       img: /imgs/cgtd9.webp
