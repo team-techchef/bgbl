@@ -14,6 +14,9 @@ list:
       src: /imgs/cgtd_quote_bg.webp
       alt: ''
   newsletters:
+    - title: Eat The Mouth That Feeds You
+      link: https://mailchi.mp/9a367addd40d/this-holiday-season-eat-the-mouth-that-feeds-you?fbclid=IwAR0KMT-XdDeD8D4a4t_7C_BlulIMNELOCcyL78PmqBnLTwnz7YJ3F-M1BMg
+      img: /imgs/cgtd_etmtfy.webp
     - title: The Prophets
       link: https://mailchi.mp/ca473d424ac4/and-if-you-dont-know-now-you-know?fbclid=IwAR37hHZ5nMhG-PExTzUxjmTOsSR7jBdFtQ8FlqS4u9OJ1J-unFEE_z37T1Y
       img: /imgs/cgtd_tp.webp
