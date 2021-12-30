@@ -25,6 +25,9 @@ drawer:
       label: New Book Who Dis?
       notice: Want more diverse books in your life? Check out these interviews with diverse writers who are shifting the literary world.
       books:
+        - title: Eat The Mouth That Feeds You
+          link: https://www.youtube.com/watch?v=-WWq4wcO9zA
+          img: /imgs/nbwd_etmtfy.webp
         - title: The Prophets
           link: https://www.youtube.com/watch?v=bpylBOn4evc
           img: /imgs/nbwd_tp.webp
