@@ -29,6 +29,12 @@ bookReviews:
 essaysArticles:
   title: Essays & Articles
   publications:
+    - title: "Why You'll Always Have a Friend in Senegal"
+      image:
+        alt: "Why You'll Always Have a Friend in Senegal"
+        src: /imgs/pub_wyahafis.webp
+      link: https://www.fodors.com/world/africa-and-middle-east/senegal/experiences/news/why-youll-always-have-a-friend-in-senegal
+      linkText: READ THE FULL STORY
     - title: '"Everyone is grieving on some level." Interview with the author Grace Talusan.'
       image:
         alt: '"Everyone is grieving on some level." Interview with the author Grace Talusan.'
