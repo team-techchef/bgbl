@@ -15,7 +15,9 @@ const About = ({ data, content }) => {
       exit="exit"
       variants={pageVariants}
     >
-      <h1 className={`header-1 ${styles.header}`}>{data?.header}</h1>
+      {data?.header === 'About' || (
+        <h1 className={`header-1 ${styles.header}`}>{data?.header}</h1>
+      )}
       <BlockQuote {...data.blockQuote} />
       <section className={styles.profile}>
         <Profile markup={content} image={data?.authorImage} />
