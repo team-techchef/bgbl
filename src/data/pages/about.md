@@ -23,10 +23,10 @@ siteFacts:
 authorFacts:
   title: Leslie-Ann Murray Facts
   facts:
-    - I make really bomb smoothies
-    - I'm an avid runner.
-    - Our society is unwell without diversity.
-    - I'm working on my first novel, "This Has Made Us Beautiful"
+    - I make really good smoothies!
+    - I'm an avid runner!
+    - I'm a plant mom!
+    - I'm working on my first novel, "This Has Made Us Beautiful."
 ---
 
 ## Leslie-Ann Murray
