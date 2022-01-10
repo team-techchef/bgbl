@@ -4,11 +4,25 @@ description: >-
   What the book lovers are reading!
 header: What the book lovers are reading!
 tiles:
+  - name: Linda
+    location: Ghana
+    book: The Jero Plays
+    author: Wole Soyinka
+    image:
+      alt: Linda with The Jero Plays
+      src: /imgs/rn_tjp.webp
+  - name: Josh
+    location: Maryland
+    book: The Arab of the Future
+    author: Riad Sattouf
+    image:
+      alt: Josh with The Arab of the Future
+      src: /imgs/rn_taotf.webp
   - name: Stana
     location: Brooklyn, New York
     book: You Got Anything Stronger?
     author: Gabrielle Union
-    image: 
+    image:
       alt: Stana with You Got Anything Stronger?
       src: /imgs/stana-reading-now.webp
   - name: Andre
@@ -22,7 +36,7 @@ tiles:
     location: Mayland
     book: The Unfolding of Language
     author: Guy Deutscher
-    image: 
+    image:
       alt: Carlene with The Unfolding of Language
       src: /imgs/carlene-reading-now.webp
   - name: Romain
