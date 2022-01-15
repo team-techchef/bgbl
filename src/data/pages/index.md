@@ -25,6 +25,9 @@ drawer:
       label: New Book Who Dis?
       notice: Want more diverse books in your life? Check out these interviews with diverse writers who are shifting the literary world.
       books:
+        - title: The Eternal Audience of One
+          link: https://www.youtube.com/watch?v=Zn_V9jO4kJY
+          img: /imgs/nbwd_teaoo.webp
         - title: Eat The Mouth That Feeds You
           link: https://www.youtube.com/watch?v=-WWq4wcO9zA
           img: /imgs/nbwd_etmtfy.webp

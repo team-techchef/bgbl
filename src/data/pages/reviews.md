@@ -14,6 +14,9 @@ list:
       src: /imgs/cgtd_quote_bg.webp
       alt: ''
   newsletters:
+    - title: The Eternal Audience of One
+      link: https://mailchi.mp/de381ab16da0/the-eternal-audience-of-one?fbclid=IwAR0HbgA1XkoRvcPRd9hl8FI29wCHcaOIX9_baEIXxkm7JqJuHt_llhFGYkc
+      img: /imgs/cgtd_teaoo.webp
     - title: Eat The Mouth That Feeds You
       link: https://mailchi.mp/9a367addd40d/this-holiday-season-eat-the-mouth-that-feeds-you?fbclid=IwAR0KMT-XdDeD8D4a4t_7C_BlulIMNELOCcyL78PmqBnLTwnz7YJ3F-M1BMg
       img: /imgs/cgtd_etmtfy.webp
