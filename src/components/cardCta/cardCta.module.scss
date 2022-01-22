@@ -3,7 +3,8 @@
 .card {
   border-radius: $spacing-50;
   overflow: hidden;
-  width: 100%;
+  display: flex;
+  flex-flow: column nowrap;
   cursor: pointer;
 
   .link {
@@ -24,19 +25,7 @@
 }
 
 .img-container {
-  height: 0;
-  overflow: hidden;
-  padding-top: 100%;
-  position: relative;
+  height: auto;
+  flex-grow: 1;
   width: 100%;
-
-  img {
-    position: absolute;
-    top: 0;
-    transition: transform 0.3s ease-in;
-  }
-
-  img:hover {
-    transform: scale(1.2);
-  }
 }
