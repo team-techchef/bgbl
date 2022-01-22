@@ -1,4 +1,5 @@
 import { getPageProps } from 'util/api'
+import Link from 'next/link'
 import { useEffect, useState } from 'react'
 import { motion } from 'framer-motion'
 import { pageVariants } from 'util/motionVariants'
@@ -41,7 +42,20 @@ const Events = ({ data }) => {
                     <strong>{obj?.title}</strong>
                   </div>
                   <time>{obj?.date}</time> <span>{obj?.location}</span>
-                  <div className={styles['card-btn']}>Attend this Event</div>
+                  <a
+                    className={styles['card-btn']}
+                    href={obj?.link}
+                    target='_blank'
+                  >
+                    Attend this Event
+                  </a>
+                  <a
+                    target='_blank'
+                    href={obj?.details}
+                    className={styles['card-btn']}
+                  >
+                    See Details
+                  </a>
                 </CardCta>
               )
             })}
