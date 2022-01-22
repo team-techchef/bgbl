@@ -7,7 +7,7 @@ description: >-
   facilisi morbi tempus.
 header: Workshops and Events
 upComingEvent:
-  title: Up Coming Events
+  title: Upcoming Events
   events:
     - title: '8-Weeks Online Fiction Writing I/II'
       date: 3/8/2022
@@ -16,29 +16,8 @@ upComingEvent:
         alt: 8-Weeks Online Fiction Writing I/II
       location: Online (weekly video meet-up Tuesdays 7-9pm ET)
       link: https://sackettworkshop.com/writing/apply-now/
-    - title: Brooklyn Writing Work Shop
-      date: 8/20/2020
-      image:
-        src: https://source.unsplash.com/XrSzacdYbtQ/500x500
-        alt: Brooklyn Writer
-      location: New York, NY
-      link: /
-    - title: Brooklyn Writing Work Shop
-      date: 8/20/2020
-      image:
-        src: https://source.unsplash.com/kSTcz5gE018/500x500
-        alt: Brooklyn Writer
-      location: New York, NY
-      link: /
-    - title: Brooklyn Writing Work Shop
-      date: 8/20/2020
-      image:
-        src: https://source.unsplash.com/-PYkAUIVi_M/500x500
-        alt: Brooklyn Writer
-      location: New York, NY
-      link: /
 pastEvent:
-  title: Previous Events
+  title: Past Events
   events:
     - title: American Library of Paris
       image:
