@@ -9,7 +9,8 @@
   display: grid;
   grid-column-gap: $spacing-200;
   grid-row-gap: $spacing-400;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  width: 100%;
 }
 
 .carousel-container {
@@ -35,6 +36,7 @@
 // make this a component
 // minus the margin-top
 .card-btn {
+  cursor: pointer;
   background-color: $white;
   border-radius: $spacing-50;
   color: $primary-100;
