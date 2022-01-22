@@ -16,6 +16,7 @@ upComingEvent:
         alt: 8-Weeks Online Fiction Writing I/II
       location: Online (weekly video meet-up Tuesdays 7-9pm ET)
       link: https://sackettworkshop.com/writing/apply-now/
+      details: /pdfs/events_8wofw.pdf
 pastEvent:
   title: Past Events
   events:
