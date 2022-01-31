@@ -1,5 +1,5 @@
-import styles from './image.module.scss';
-import { useEffect, useRef } from 'react';
+import styles from './image.module.scss'
+import { useEffect, useRef } from 'react'
 
 const Image = ({
   src,
@@ -7,10 +7,11 @@ const Image = ({
   alt,
   fallbackSrc,
   isLazy = true,
+  isEvent = false,
   onClick,
   style,
 }) => {
-  const imgEl = useRef(null);
+  const imgEl = useRef(null)
 
   useEffect(() => {
     if (isLazy && imgEl) {
@@ -18,32 +19,32 @@ const Image = ({
         let lazyImageObserver = new IntersectionObserver((entries) => {
           entries.forEach((entry) => {
             if (entry.isIntersecting) {
-              let lazyImage = entry.target;
-              lazyImage.src = lazyImage.dataset.src;
-              lazyImage.srcset = lazyImage.dataset.srcset;
-              lazyImageObserver.unobserve(lazyImage);
+              let lazyImage = entry.target
+              lazyImage.src = lazyImage.dataset.src
+              lazyImage.srcset = lazyImage.dataset.srcset
+              lazyImageObserver.unobserve(lazyImage)
             }
-          });
-        });
+          })
+        })
 
-        lazyImageObserver.observe(imgEl.current);
+        lazyImageObserver.observe(imgEl.current)
       }
     }
-  }, [imgEl, isLazy]);
+  }, [imgEl, isLazy])
 
   return (
     <img
       ref={imgEl}
       src={isLazy ? fallbackSrc : src}
       alt={alt}
-      className={styles.image}
+      className={`${styles.image} ${isEvent && styles.event}`}
       srcSet={isLazy ? '' : srcSet}
       data-srcset={srcSet || ''}
       data-src={src}
       style={style}
       onClick={onClick}
     />
-  );
-};
+  )
+}
 
-export default Image;
+export default Image
