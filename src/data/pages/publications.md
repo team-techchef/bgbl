@@ -29,6 +29,12 @@ bookReviews:
 essaysArticles:
   title: Essays & Articles
   publications:
+    - title: Unraveling Reality in Lesser Known Monsters of the 21st Century
+      image:
+        alt: Unraveling Reality in Lesser Known Monsters of the 21st Century
+        src: /imgs/pub_lkmot2c.webp
+      link: https://blog.pshares.org/unraveling-reality-in-lesser-known-monsters-of-the-21st-century/
+      linkText: READ THE FULL STORY
     - title: "Why You'll Always Have a Friend in Senegal"
       image:
         alt: "Why You'll Always Have a Friend in Senegal"
