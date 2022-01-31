@@ -5,4 +5,8 @@
   object-fit: cover;
   object-position: center;
   width: 100%;
+
+  &.event {
+    border: 0.4rem solid black;
+  }
 }
