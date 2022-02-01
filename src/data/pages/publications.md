@@ -12,6 +12,13 @@ bookReviews:
     #     src: /imgs/publication1.webp
     #   link: https://www.pw.org/content/dearest_tayari
     #   linkText: READ THE FULL STORY
+    - title: Unraveling Reality in Lesser Known Monsters of the 21st Century
+      type: Book Review
+      image:
+        alt: Unraveling Reality in Lesser Known Monsters of the 21st Century
+        src: /imgs/pub_lkmot2c.webp
+      link: https://blog.pshares.org/unraveling-reality-in-lesser-known-monsters-of-the-21st-century/
+      linkText: READ THE FULL STORY
     - title: 'The Other Black Girl by Zakiya Harris'
       type: Book Review
       image:
@@ -29,12 +36,6 @@ bookReviews:
 essaysArticles:
   title: Essays & Articles
   publications:
-    - title: Unraveling Reality in Lesser Known Monsters of the 21st Century
-      image:
-        alt: Unraveling Reality in Lesser Known Monsters of the 21st Century
-        src: /imgs/pub_lkmot2c.webp
-      link: https://blog.pshares.org/unraveling-reality-in-lesser-known-monsters-of-the-21st-century/
-      linkText: READ THE FULL STORY
     - title: "Why You'll Always Have a Friend in Senegal"
       image:
         alt: "Why You'll Always Have a Friend in Senegal"
