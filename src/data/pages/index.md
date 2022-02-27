@@ -1,7 +1,7 @@
 ---
 title: Brown Girl Book Lover
 description: >-
-  Brown Girl Book Lover - Leslie-Ann Murray's mission is to increase 
+  Brown Girl Book Lover - Leslie-Ann Murray's mission is to increase
   diversity in all aspects of literature and shed more light on books that spark new ways for us to think.
 mainHeader: Welcome Book Lovers!
 blockQuote:
@@ -25,6 +25,9 @@ drawer:
       label: New Book Who Dis?
       notice: Want more diverse books in your life? Check out these interviews with diverse writers who are shifting the literary world.
       books:
+        - title: The Rib King
+          link: https://www.youtube.com/watch?v=hiVto_JFIV4
+          img: /imgs/nbwd_trk.webp
         - title: The Eternal Audience of One
           link: https://www.youtube.com/watch?v=Zn_V9jO4kJY
           img: /imgs/nbwd_teaoo.webp
