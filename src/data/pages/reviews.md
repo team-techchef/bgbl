@@ -14,6 +14,9 @@ list:
       src: /imgs/cgtd_quote_bg.webp
       alt: ''
   newsletters:
+    - title: The Rib King
+      link: https://mailchi.mp/7d3977bbc61d/are-you-ready-for-the-rib-king?fbclid=IwAR2gv9BIwzTozzAIOUUgw0TQcWlL2wVSUF_BQwE5QfExq2V7m2rkqgE2Kgs
+      img: /imgs/cgtd_trk.webp
     - title: The Eternal Audience of One
       link: https://mailchi.mp/de381ab16da0/the-eternal-audience-of-one?fbclid=IwAR0HbgA1XkoRvcPRd9hl8FI29wCHcaOIX9_baEIXxkm7JqJuHt_llhFGYkc
       img: /imgs/cgtd_teaoo.webp
