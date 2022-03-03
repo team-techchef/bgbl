@@ -32,31 +32,35 @@ const Events = ({ data }) => {
           <div className={styles['card-container']}>
             {data?.upComingEvent?.events?.map((obj, i) => {
               return (
-                <CardCta
-                  key={i}
-                  link={obj?.link}
-                  key={`upComingEvent${i}`}
-                  image={obj?.image}
-                >
-                  <div>
-                    <strong>{obj?.title}</strong>
-                  </div>
-                  <time>{obj?.date}</time> <span>{obj?.location}</span>
-                  <a
-                    className={styles['card-btn']}
-                    href={obj?.link}
-                    target='_blank'
+                <div>
+                  <CardCta
+                    key={i}
+                    link={obj?.link}
+                    key={`upComingEvent${i}`}
+                    image={obj?.image}
                   >
-                    Attend this Event
-                  </a>
-                  <a
-                    target='_blank'
-                    href={obj?.details}
-                    className={styles['card-btn']}
-                  >
-                    See Details
-                  </a>
-                </CardCta>
+                    <div>
+                      <strong>{obj?.title}</strong>
+                    </div>
+                    <time>{obj?.date}</time> <span>{obj?.location}</span>
+                    <a
+                      className={styles['card-btn']}
+                      href={obj?.link}
+                      target='_blank'
+                    >
+                      Attend this Event
+                    </a>
+                    {obj?.details && (
+                      <a
+                        target='_blank'
+                        href={obj?.details}
+                        className={styles['card-btn']}
+                      >
+                        See Details
+                      </a>
+                    )}
+                  </CardCta>
+                </div>
               )
             })}
           </div>
@@ -80,15 +84,6 @@ const Events = ({ data }) => {
                     <p className='legend'>{obj.title}</p>
                   </div>
                 )
-                // return (
-                //   <CardCta key={`pastEvents${i}`} image={obj?.image}>
-                //     <div>
-                //       <strong>{obj?.title}</strong>
-                //     </div>
-                //     <time>{obj?.date}</time> <span>{obj?.location}</span>
-                //     <div className={styles['card-btn']}>View Past Event</div>
-                //   </CardCta>
-                // );
               })}
             </Carousel>
           </div>
@@ -98,13 +93,7 @@ const Events = ({ data }) => {
       </section>
       <section>
         <h2 className='header-two'>{data?.reviews?.title}</h2>
-        <div className={styles['block-section']}>
-          {quotes}
-          {/* {data?.reviews?.reviews?.map((v, i) => {
-            if (i === 0) setTopQuote(<BlockQuote key={`bp${i}`} {...v} />);
-            else return <BlockQuote key={`bp${i}`} {...v} />;
-          })} */}
-        </div>
+        <div className={styles['block-section']}>{quotes}</div>
       </section>
     </motion.div>
   )
