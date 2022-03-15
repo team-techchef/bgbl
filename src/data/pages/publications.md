@@ -36,6 +36,12 @@ bookReviews:
 essaysArticles:
   title: Essays & Articles
   publications:
+    - title: "The Mother of All Stories"
+      image:
+        alt: "The Mother of All Stories"
+        src: /imgs/pub_tmoas.webp
+      link: /pdfs/pub_tmoas.pdf
+      linkText: READ THE FULL STORY
     - title: "Why You'll Always Have a Friend in Senegal"
       image:
         alt: "Why You'll Always Have a Friend in Senegal"
