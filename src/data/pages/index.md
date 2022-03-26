@@ -25,6 +25,9 @@ drawer:
       label: New Book Who Dis?
       notice: Want more diverse books in your life? Check out these interviews with diverse writers who are shifting the literary world.
       books:
+        - title: Blue Skinned Gods
+          link: https://www.youtube.com/watch?v=zepSYytSc5A
+          img: /imgs/nbwd_bsg.webp
         - title: The Rib King
           link: https://www.youtube.com/watch?v=hiVto_JFIV4
           img: /imgs/nbwd_trk.webp
