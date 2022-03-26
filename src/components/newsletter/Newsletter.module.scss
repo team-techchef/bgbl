@@ -1,15 +1,14 @@
-@import '../../themes/theme';
+@import 'themes/theme';
 
 .form {
   text-align: center;
   box-shadow: 0 0 15px rgb(0, 0, 0, 10%);
   border-radius: 0.125rem;
-  max-width: 56.25rem;
   position: relative;
+  max-width: 35rem;
   height: 290px;
-  padding: 40px 70px;
+  padding: 20px 50px;
   background-color: white;
-  transform: translateY(-90px);
 
   .header {
     font-size: 1.5rem;
@@ -29,7 +28,7 @@
     width: 20px;
     height: 25px;
     position: absolute;
-    left: 5rem;
+    left: 4rem;
     z-index: 1;
     margin-top: 10px;
     color: #ddd;
@@ -37,7 +36,8 @@
 
   .newsletter_email {
     border: 1px solid #ddd;
-    padding: 0.5rem 1.5rem 0.5rem 2.5rem;
+    padding: 0.5rem;
+    padding-left: 2.5rem;
     width: 100%;
     border-radius: 0.125rem;
     &::placeholder {
