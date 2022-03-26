@@ -6,6 +6,8 @@
   grid-row-gap: $spacing-200;
   grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
   width: 100%;
+  grid-row: 1;
+  grid-column: 1;
 }
 
 .drawer-container {
@@ -19,6 +21,16 @@
   display: grid;
   grid-template-columns: auto;
   grid-row-gap: $spacing-400;
+}
+
+.layout > form {
+  grid-column: 2;
+  grid-row: 2;
+}
+
+.layout > h1 {
+  grid-column: 2;
+  grid-row: 1;
 }
 
 @media screen and (max-width: $bp-300) {
@@ -61,14 +73,11 @@
     }
   }
 
-  .layout > div:not(:last-of-type) {
-    grid-column: 1;
-  }
-
   .layout > div:last-of-type {
     align-self: flex-start;
     grid-column: 2;
-    grid-row: 4;
+    grid-row: 2;
+    align-self: flex-end;
   }
 
   .layout > a {
