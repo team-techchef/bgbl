@@ -2,16 +2,15 @@
 title: Brown Girl Book Lover - Publications
 description: 'Great writings selected by Brown Girl Book Lover'
 header: ''
-subheader: Stay tuned for more writing!
+blockQuote:
+  image:
+    src: /imgs/brooklyn-img-1.webp
+    alt: Brooklyn
+  quote: I'm not only a book lover, I'm a writer as well. Read my bylines!
+  book: null
 bookReviews:
   title: Book Reviews
   publications:
-    # - title: '"I''m writing to You Letters from Writers of the Black Literary Community."'
-    #   image:
-    #     alt: I'm writing to You Letters from Writers of the Black Literary Community.
-    #     src: /imgs/publication1.webp
-    #   link: https://www.pw.org/content/dearest_tayari
-    #   linkText: READ THE FULL STORY
     - title: Unraveling Reality in Lesser Known Monsters of the 21st Century
       type: Book Review
       image:
@@ -36,9 +35,9 @@ bookReviews:
 essaysArticles:
   title: Essays & Articles
   publications:
-    - title: "The Mother of All Stories"
+    - title: 'The Mother of All Stories'
       image:
-        alt: "The Mother of All Stories"
+        alt: 'The Mother of All Stories'
         src: /imgs/pub_tmoas.webp
       link: /pdfs/pub_tmoas.pdf
       linkText: READ THE FULL STORY
