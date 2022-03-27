@@ -1,6 +1,5 @@
 import styles from './Panel.module.scss'
-import { AiOutlinePlus, AiOutlineMinus } from 'react-icons/ai'
-import { motion, AnimatePresence } from 'framer-motion'
+import { motion } from 'framer-motion'
 
 const variants = {
   open: { opacity: 1, height: '640px' },
