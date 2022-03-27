@@ -7,8 +7,8 @@ navLinks:
     name: home
   - href: /about
     name: about
-  - href: /cgtd
-    name: come get this diversity
+  - href: /newsletter-archive
+    name: newsletter archive
   - href: /events
     name: events
   - href: /community-reads
