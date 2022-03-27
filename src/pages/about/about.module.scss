@@ -31,23 +31,26 @@
     grid-area: profile;
   }
 
-  .author-facts {
-    grid-area: author;
+  .siteFacts {
+    grid-area: facts;
   }
 
-  .site-facts {
-    grid-area: site;
+  .socials {
+    grid-area: socials;
+  }
+
+  .quote {
+    grid-area: quote;
   }
 
   .layout {
     display: grid;
     grid-column-gap: $spacing-300;
     grid-template-areas:
-      'header header header'
-      'dec dec dec'
-      'author profile profile'
-      'site site site';
-    grid-template-columns: 1fr 1fr 21.875rem;
+      'socials socials profile profile profile'
+      'facts facts facts facts facts'
+      'quote quote quote quote quote';
+    grid-template-columns: repeat(1fr, 5);
   }
 }
 
