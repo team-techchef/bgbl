@@ -17,20 +17,28 @@ authorImage:
 siteFacts:
   title: Brown Girl Book Lover Facts
   facts:
-    - Reviewing books that should be at the forefront of our imagination.
-    - Reviewing books that are shifting our literary world.
-    - Unearthing published books that did not receive the limelight.
-authorFacts:
-  title: Leslie-Ann Murray Facts
-  facts:
-    - I make really good smoothies!
-    - I'm an avid runner!
-    - I'm a plant mom!
-    - I'm working on my first novel, "This Has Made Us Beautiful."
+    - text: Reviewing books that should be at the forefront of our imagination.
+    - text: Reviewing books that are shifting our literary world.
+    - text: Unearthing published books that did not receive the limelight.
+socials:
+  title: We Are Very Social
+  items:
+    - text: Facebook
+      link: https://www.facebook.com/browngirlbooklover/
+    - text: Instagram
+      link: https://www.instagram.com/browngirlbooklover/
+    - text: YouTube
+      link: https://www.youtube.com/user/Lmurray81
+    - text: Contact Me!
+      link: mailto:lmurray81@gmail.com
 ---
 
 ## Leslie-Ann Murray
 
-My name is Leslie Ann Murray and I’m a fiction writer and book lover from Trinidad and Tobago. I’m currently living in Brooklyn, New York, but before living here I’ve lived in France, Bangladesh, China, South Africa, and a random small town in New England.
+My name is Leslie Ann Murray and I’m a fiction writer and book lover from Trinidad and Tobago, and I grew up in East Flatbush, Brooklyn. Turn your lighters up! I’m currently living in Crown Heights, Brooklyn, but before living here, I lived in South Africa, China, Bangladesh, France, and a random small town in New England.
 
-I started Brown Girl Book Lover because we need more diverse book reviewers. My primary focus is to review diverse books and interview writers who are unearthing new ways for us to think.
+At Brown Girl Book Lover We: Review diverse books and interview diverse writers, we unearth published books that did not receive the limelight, and we talk about books that should be at the forefront of our imagination.
+
+What makes us different? We put our stank on here, kidding. We believe that books are magic and we are creating a space for everyone to find their super power. We value and celebrate the intellectual contributions of Black writers and writers of color, and we turn this into a whole vibe.
+
+Sign up for our bimonthly newsletter, Come Get Your Diversity to keep up!
