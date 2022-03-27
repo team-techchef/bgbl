@@ -1,5 +1,5 @@
-import fs from 'fs';
-import matter from 'gray-matter';
+import fs from 'fs'
+import matter from 'gray-matter'
 // import { getGithubPreviewProps, parseMarkdown } from 'next-tinacms-github';
 
 /**
@@ -10,7 +10,7 @@ export function getPageLists() {
   return fs
     .readdirSync('src/pages')
     .filter((v) => !/.jsx|.js/.test(v))
-    .reverse();
+    .reverse()
 }
 
 /**
@@ -18,16 +18,16 @@ export function getPageLists() {
  * @param {string} page name of page
  */
 export async function getPageData(page) {
-  const content = await import(`../data/pages/${page}.md`);
-  return matter(content?.default);
+  const content = await import(`../data/pages/${page}.md`)
+  return matter(content?.default)
 }
 
 /**
  * Get Data associated with the app
  */
 export async function getConfigData() {
-  const data = await import('../data/config.md');
-  return matter(data.default)?.data;
+  const data = await import('../data/config.md')
+  return matter(data.default)?.data
 }
 
 /**
@@ -35,30 +35,9 @@ export async function getConfigData() {
  * @param {string} page The name of the page
  * @returns Page Props
  */
-export async function getPageProps(page, preview = false, previewData = null) {
-  const { data, content } = await getPageData(page);
-  const config = await getConfigData();
-
-  // if (preview) {
-  //   const gitHubProps = await getGithubPreviewProps({
-  //     ...previewData,
-  //     fileRelativePath: `/src/data/pages/${page}.md`,
-  //     parse: parseMarkdown,
-  //   });
-  //   const file = gitHubProps?.props?.file;
-
-  //   return {
-  //     props: {
-  //       sourceProvider: null,
-  //       logoImage: config?.logoImage,
-  //       navLinks: config?.navLinks,
-  //       data,
-  //       content,
-  //       file,
-  //       ...gitHubProps?.props,
-  //     },
-  //   };
-  // }
+export async function getPageProps(page, preview = false) {
+  const { data, content } = await getPageData(page)
+  const config = await getConfigData()
 
   return {
     props: {
@@ -78,5 +57,5 @@ export async function getPageProps(page, preview = false, previewData = null) {
         fileRelativePath: `/src/data/pages/${page}.md`,
       },
     },
-  };
+  }
 }
