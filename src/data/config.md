@@ -11,8 +11,8 @@ navLinks:
     name: come get this diversity
   - href: /events
     name: events
-  - href: /reading-now
-    name: reading now
+  - href: /community-reads
+    name: community reads
   - href: /publications
     name: publications
 ---
