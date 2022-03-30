@@ -1,6 +1,4 @@
 import { getPageProps } from 'util/api'
-import Link from 'next/link'
-import { useEffect, useState } from 'react'
 import { motion } from 'framer-motion'
 import { pageVariants } from 'util/motionVariants'
 import styles from './events.module.scss'
