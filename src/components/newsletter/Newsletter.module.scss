@@ -12,14 +12,14 @@
 
   .header {
     font-size: 1.5rem;
-    color: #704e2e;
+    color: darken($primary-100, 15);
     font-weight: 700;
     margin-bottom: 1rem;
   }
 
   .subheader {
     font-size: 80%;
-    color: #704e2e;
+    color: darken($primary-100, 15);
     font-weight: 700;
     margin-bottom: 1rem;
   }
@@ -49,7 +49,7 @@
     margin-top: 0.5rem;
     width: 100%;
     border-radius: 0.125rem;
-    background-color: #673f1a;
+    background-color: $primary-100;
     color: white;
     padding: 0.5rem;
   }
