@@ -1,4 +1,4 @@
-@import '../../themes/theme';
+@import 'themes/theme';
 
 .container {
   display: grid;
@@ -15,7 +15,7 @@
   width: 100%;
 
   &:nth-of-type(1n) {
-    background-color: $tertiary-300;
+    background-color: $tertiary-200;
   }
 
   &:nth-of-type(2n) {
