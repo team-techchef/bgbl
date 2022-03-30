@@ -13,10 +13,6 @@
   .tile:nth-of-type(2n) {
     background-color: $primary-100;
   }
-
-  .tile:nth-of-type(3n) {
-    background-color: $tertiary-200;
-  }
 }
 
 .tile {
