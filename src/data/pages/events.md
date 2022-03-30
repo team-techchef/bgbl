@@ -50,6 +50,12 @@ pastEvent:
 reviews:
   title: What people are saying
   reviews:
+    - quote: Being a book lover is a whole vibe. I love collaborating with organizations, individuals, and book festivals to bring you all the diversity in the literary world.
+      author:
+      location:
+      image:
+        src: /imgs/brooklyn-img-1.webp
+        alt: Brooklyn
     - quote: I have never felt so expressive in a long while and I'm glad that I took the opportunity. I'm thankful for Miss Leslie-Ann Murray for opening up my mind and thoughts much more to the creative world of Short Story Writing a woman of knowledge and substance.
       author: Writing Workshop participant
       location: East Yard, Trinidad & Tobago
