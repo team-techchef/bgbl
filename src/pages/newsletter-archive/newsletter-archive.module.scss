@@ -1,8 +1,12 @@
-@import '../../themes/theme';
+@import 'themes/theme';
 
 .layout {
   display: grid;
   grid-row-gap: $spacing-400;
+
+  blockquote {
+    margin-top: 6em;
+  }
 }
 
 .drawer-container {
