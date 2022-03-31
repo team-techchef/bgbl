@@ -6,7 +6,7 @@ blockQuote:
   image:
     src: /imgs/brooklyn-img-1.webp
     alt: Brooklyn
-  quote: I'm not only a book lover, I'm a writer as well. Read my bylines!
+  quote: I’m a book lover, writer, and I have received my MFA in creative writing from Rutgers University.  I have been publishing essays, book reviews, and short stories for over ten years. I’m currently working on my first novel, ‘This has made us beautiful.’
   book: null
 bookReviews:
   title: Book Reviews
