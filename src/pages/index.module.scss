@@ -1,15 +1,5 @@
 @import 'themes/theme';
 
-.acc-container {
-  display: grid;
-  grid-column-gap: $spacing-100;
-  grid-row-gap: $spacing-200;
-  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-  width: 100%;
-  grid-row: 1;
-  grid-column: 1;
-}
-
 .drawer-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -45,11 +35,6 @@
 }
 
 @media screen and (min-width: $bp-100) {
-  .acc-container {
-    grid-column-gap: $spacing-300;
-    grid-row-gap: $spacing-400;
-  }
-
   .layout {
     grid-row-gap: $spacing-500;
   }
@@ -74,7 +59,6 @@
   }
 
   .layout > div:last-of-type {
-    align-self: flex-start;
     grid-column: 2;
     grid-row: 2;
     align-self: flex-end;

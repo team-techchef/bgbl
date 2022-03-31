@@ -2,13 +2,21 @@
 
 .layout {
   display: grid;
+  grid-template-columns: auto;
   grid-row-gap: $spacing-400;
-
   blockquote {
     margin-top: 6em;
   }
 }
 
+.layout > form {
+  grid-column: 2;
+  grid-row: 2;
+}
+.layout > h1 {
+  grid-column: 2;
+  grid-row: 1;
+}
 .drawer-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -16,39 +24,47 @@
   grid-row-gap: 2rem;
 }
 
-.video-container {
-  display: grid;
-  grid-column-gap: $spacing-200;
-  grid-row-gap: $spacing-400;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+@media screen and (max-width: $bp-300) {
+  .layout {
+    display: flex;
+    flex-direction: column;
+  }
+  .drawer-container {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 
 @media screen and (min-width: $bp-200) {
-  .layout {
-    grid-row-gap: $spacing-600;
-  }
-
-  .video-container {
-    grid-row-gap: $spacing-600;
-
-    figure {
-      max-width: 40rem;
-    }
-  }
 }
 
 @media screen and (min-width: $bp-300) {
-  .video-container {
+  .layout {
     grid-column-gap: $spacing-300;
+    grid-template-columns: 1fr 300px;
 
-    figure {
-      max-width: 31.25rem;
+    h1 {
+      grid-column: 1 / span 2;
     }
   }
-}
 
+  .layout > div:last-of-type {
+    grid-column: 1;
+    grid-row: 2;
+    align-self: flex-end;
+  }
+
+  .layout > a {
+    grid-column: 1 / span 2;
+  }
+
+  .layout > blockquote {
+    grid-column: 1 / span 2;
+  }
+}
 @media screen and (min-width: $bp-400) {
-  .video-container {
+  .layout {
     grid-column-gap: $spacing-500;
+    grid-template-columns: 1fr 350px;
   }
 }

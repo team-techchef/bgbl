@@ -5,6 +5,8 @@ import Panel from 'components/Panel/Panel'
 import BlockQuote from 'components/blockQuote/blockQuote'
 import CGTD from 'components/CGTD/CGTD'
 import styles from './newsletter-archive.module.scss'
+import Newsletter from 'components/newsletter/Newsletter'
+import Accordion from 'components/accordion/accordion'
 
 const NewsletterArchive = ({ data }) => (
   <motion.div
@@ -15,8 +17,8 @@ const NewsletterArchive = ({ data }) => (
     variants={pageVariants}
   >
     <h1 className='header-1'>{data?.header}</h1>
-    <section className={styles.section}>
-      <h2 className='header-two'>{data?.reviews?.title}</h2>
+    <Newsletter />
+    <Accordion>
       <Panel title={data?.list.label}>
         <div className={styles['drawer-container']}>
           {data?.list?.newsletters?.map((nl, x) => {
@@ -31,8 +33,8 @@ const NewsletterArchive = ({ data }) => (
           })}
         </div>
       </Panel>
-      <BlockQuote {...data?.list?.blockQuote} />
-    </section>
+    </Accordion>
+    <BlockQuote {...data?.list?.blockQuote} />
   </motion.div>
 )
 
