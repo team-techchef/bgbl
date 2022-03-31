@@ -1,4 +1,4 @@
-@import '../../themes/theme';
+@import 'themes/theme';
 
 .layout {
   display: flex;
@@ -53,8 +53,8 @@
   grid-row-gap: $spacing-400;
 
   blockquote:nth-of-type(1n) {
-    background-color: $tertiary-200;
-    color: $text-color-200;
+    background-color: $tertiary-300;
+    color: $text-color-100;
   }
 
   blockquote:nth-of-type(2n) {
