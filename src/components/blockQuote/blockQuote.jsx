@@ -11,13 +11,13 @@ const BlockQuote = ({ image, quote, book, author, location }) => (
     )}
     <p>
       <span className={`${styles.quote} ${styles.left}`}>
-        {author && <FaQuoteLeft />}
-        {/* <FaQuoteLeft /> */}
+        {/* {author && <FaQuoteLeft />} */}
+        <FaQuoteLeft />
       </span>
       {quote}
       <span className={`${styles.quote} ${styles.right}`}>
-        {author && <FaQuoteRight />}
-        {/* <FaQuoteRight /> */}
+        {/* {author && <FaQuoteRight />} */}
+        <FaQuoteRight />
       </span>
     </p>
     <footer>
