@@ -22,7 +22,7 @@ const Footer = () => (
         </a>
       </div>
       <div className={styles.copyright}>
-        <small>&copy; 2021, Brown Girl Book Lover</small>
+        <small>&copy; {new Date().getFullYear()}, Brown Girl Book Lover</small>
         <br />
         <small>
           Developed by Sean Reichel & Sean Harte, Designed by Alana Harte
