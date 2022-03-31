@@ -35,10 +35,12 @@ socials:
 
 ## Leslie-Ann Murray
 
-My name is Leslie Ann Murray and I’m a fiction writer and book lover from Trinidad and Tobago, and I grew up in East Flatbush, Brooklyn. Turn your lighters up! I’m currently living in Crown Heights, Brooklyn, but before living here, I lived in South Africa, China, Bangladesh, France, and a random small town in New England.
+My name is Leslie Ann Murray and I’m a fiction writer and book lover from Trinidad and Tobago. I grew up in East Flatbush, Brookly, and I’m currently living in Crown Heights, Brooklyn.
 
-At Brown Girl Book Lover We: Review diverse books and interview diverse writers, we unearth published books that did not receive the limelight, and we talk about books that should be at the forefront of our imagination.
+At Brown Girl Book Lover we: review diverse books and interview diverse writers. We unearth published books that did not receive the limelight. Most importantly, we talk about books that should be at the forefront of our imagination.
 
-What makes us different? We put our stank on here, kidding. We believe that books are magic and we are creating a space for everyone to find their super power. We value and celebrate the intellectual contributions of Black writers and writers of color, and we turn this into a whole vibe.
+What makes us different? I have spent over ten years teaching and preaching about the importance of diversity in literature. I have taught writing workshops and presented on literary panels in South Africa, China, New York City, Trinidad, Bangladesh, and France.
+
+We believe that books are magic and we are creating a space for everyone to find their super power.
 
 Sign up for our bimonthly newsletter, Come Get Your Diversity to keep up!
