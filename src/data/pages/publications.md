@@ -3,11 +3,7 @@ title: Brown Girl Book Lover - Publications
 description: 'Great writings selected by Brown Girl Book Lover'
 header: ''
 blockQuote:
-  image:
-    src: /imgs/brooklyn-img-1.webp
-    alt: Brooklyn
   quote: I’m a book lover, writer, and I have received my MFA in creative writing from Rutgers University.  I have been publishing essays, book reviews, and short stories for over ten years. I’m currently working on my first novel, ‘This has made us beautiful.’
-  book: null
 bookReviews:
   title: Book Reviews
   publications:
@@ -35,6 +31,12 @@ bookReviews:
 essaysArticles:
   title: Essays & Articles
   publications:
+    - title: '200 Words From Around the World'
+      image:
+        alt: '200 Words From Around the World'
+        src: /imgs/pub_thwfatw.webp
+      link: https://politiken.dk/udland/art7736260/Tulimeyo-i-Namibia-opdagede-at-hun-ikke-rigtig-havde-levet-i-sit-45-%C3%A5rige-liv.-L%C3%A6s-beretningerne-fra-hele-verden-om-livet-under-coronakrisen
+      linkText: READ THE FULL STORY
     - title: 'The Mother of All Stories'
       image:
         alt: 'The Mother of All Stories'
