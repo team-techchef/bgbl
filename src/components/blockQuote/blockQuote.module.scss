@@ -12,11 +12,11 @@
   margin-bottom: $spacing-100;
   grid-column: 1 / span 3;
 
-  &.color:nth-child(even) {
-    background-color: $primary-100;
-  }
-  &.color:nth-child(odd) {
+  &.color:nth-of-type(odd) {
     background-color: $tertiary-300;
+  }
+  &.color:nth-of-type(even) {
+    background-color: $secondary-100;
   }
 
   p {

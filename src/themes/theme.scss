@@ -4,13 +4,13 @@
 @import './layout';
 
 // brand primary
-$primary-100: #f85d7c;
+$primary-100: #0b4f6c;
 
 // brand secondary
-$secondary-100: #f198e1;
+$secondary-100: #f85d7c;
 $tertiary-300: #7666b2;
 $tertiary-200: darken(#69ddff, 15);
-$tertiary-100: #f0e6ef;
+$tertiary-100: darken(#f0e6ef, 15);
 
 // neutrals
 $neutral-100: $black-200;

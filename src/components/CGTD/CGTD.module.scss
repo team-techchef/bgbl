@@ -8,10 +8,10 @@
   flex-direction: column;
   justify-content: space-between;
 
-  &:nth-of-type(1n) {
-    background-color: $primary-100;
+  &:nth-of-type(odd) {
+    background-color: $secondary-100;
     &:hover {
-      background-color: darken($primary-100, 7.5%);
+      background-color: darken($secondary-100, 7.5%);
     }
   }
 
@@ -29,7 +29,7 @@
     }
   }
 
-  &:nth-of-type(2n) {
+  &:nth-of-type(even) {
     background-color: $tertiary-300;
     &:hover {
       background-color: darken($tertiary-300, 7.5%);
