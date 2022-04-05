@@ -3,7 +3,7 @@ import Image from 'components/image/image'
 import { FaQuoteLeft, FaQuoteRight } from 'react-icons/fa'
 
 const BlockQuote = ({ image, quote, book, author, location }) => (
-  <blockquote className={styles.blockquote}>
+  <blockquote className={`${styles.blockquote} ${image || styles.color}`}>
     {image && (
       <div className={styles['img-container']}>
         <Image src={image.src} alt={image.alt} />
@@ -11,12 +11,10 @@ const BlockQuote = ({ image, quote, book, author, location }) => (
     )}
     <p>
       <span className={`${styles.quote} ${styles.left}`}>
-        {/* {author && <FaQuoteLeft />} */}
         <FaQuoteLeft />
       </span>
       {quote}
       <span className={`${styles.quote} ${styles.right}`}>
-        {/* {author && <FaQuoteRight />} */}
         <FaQuoteRight />
       </span>
     </p>
