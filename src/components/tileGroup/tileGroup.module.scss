@@ -3,16 +3,7 @@
 .group {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(15.625rem, 1fr));
-  row-gap: $spacing-300;
   width: 100%;
-
-  .tile:nth-of-type(odd) {
-    background-color: $tertiary-300;
-  }
-
-  .tile:nth-of-type(even) {
-    background-color: $secondary-100;
-  }
 }
 
 .tile {
@@ -21,6 +12,7 @@
   display: flex;
   padding: $spacing-200;
   width: 100%;
+  background-color: $secondary-100;
 }
 
 .img-container {
@@ -65,7 +57,7 @@
 
 @media screen and (min-width: $bp-100) {
   .group {
-    column-gap: $spacing-300;
+    gap: $spacing-300;
     grid-template-columns: repeat(auto-fill, minmax(26.25rem, 1fr));
   }
 

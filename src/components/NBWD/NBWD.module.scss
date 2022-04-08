@@ -8,13 +8,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-
-  &:nth-of-type(odd) {
-    background-color: $secondary-100;
-    &:hover {
-      background-color: darken($secondary-100, 7.5%);
-    }
-  }
+  background-color: $secondary-100;
 
   .title {
     margin: 0.4rem auto 0.8rem;
@@ -29,13 +23,6 @@
       &:hover {
         transform: scale(1.04, 1.04);
       }
-    }
-  }
-
-  &:nth-of-type(even) {
-    background-color: $tertiary-300;
-    &:hover {
-      background-color: darken($tertiary-300, 7.5%);
     }
   }
 }
