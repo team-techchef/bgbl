@@ -4,6 +4,7 @@
 @include normalize();
 
 body {
+  background-color: $background-new;
   font-family: $font-family;
 
   .header-1 {
