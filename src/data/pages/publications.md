@@ -4,6 +4,10 @@ description: 'Great writings selected by Brown Girl Book Lover'
 header: ''
 blockQuote:
   quote: I’m a book lover, writer, and I have received my MFA in creative writing from Rutgers University.  I have been publishing essays, book reviews, and short stories for over ten years. I’m currently working on my first novel, ‘This has made us beautiful.’
+  author: LAM
+  image:
+    src: /imgs/bq-2.webp
+    alt:
 bookReviews:
   title: Book Reviews
   publications:
