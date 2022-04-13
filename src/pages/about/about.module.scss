@@ -10,6 +10,9 @@
 .layout {
   display: flex;
   flex-flow: column nowrap;
+  > section {
+    margin-bottom: 2rem;
+  }
 }
 
 @media screen and (min-width: $bp-200) {
@@ -21,6 +24,12 @@
 @media screen and (min-width: $bp-300) {
   .header {
     grid-area: header;
+  }
+
+  .cta {
+    grid-area: cta;
+    max-width: 800px;
+    margin-inline: auto;
   }
 
   .desc {
@@ -48,6 +57,7 @@
     grid-column-gap: $spacing-300;
     grid-template-areas:
       'socials socials profile profile profile'
+      'cta cta cta cta cta'
       'facts facts facts facts facts'
       'quote quote quote quote quote';
     grid-template-columns: repeat(1fr, 5);
