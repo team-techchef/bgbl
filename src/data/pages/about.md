@@ -2,6 +2,10 @@
 title: 'Brown Girl Book Lover - About'
 description: 'About the creator of Brown Girl Book Lover - Leslie-Ann Murray'
 header: 'About'
+cta:
+  quote: Sign up for our bimonthly newsletter, Come Get Your Diversity to keep up!
+  link: /newsletter-archive
+  author:
 blockQuote:
   image:
     src: /imgs/girl-book.webp
@@ -42,5 +46,3 @@ At Brown Girl Book Lover we: review diverse books and interview diverse writers.
 What makes us different? I have spent over ten years teaching and preaching about the importance of diversity in literature. I have taught writing workshops and presented on literary panels in South Africa, China, New York City, Trinidad, Bangladesh, and France.
 
 We believe that books are magic and we are creating a space for everyone to find their super power.
-
-Sign up for our bimonthly newsletter, Come Get Your Diversity to keep up!
