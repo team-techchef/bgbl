@@ -18,6 +18,9 @@ const About = ({ data, content }) => {
       <section className={styles.profile}>
         <Profile markup={content} image={data?.authorImage} />
       </section>
+      <section className={styles.cta}>
+        <BlockQuote {...data.cta} />
+      </section>
       <section className={styles.socials}>
         <h2 className='header-two'>{data?.socials?.title}</h2>
         <BadgeGroup badges={data?.socials?.items} />
