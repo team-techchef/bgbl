@@ -23,7 +23,7 @@
   &:nth-of-type(odd) {
     background-color: $secondary-100;
     &:hover {
-      background-color: darken($primary-100, 7.5%);
+      background-color: darken($secondary-100, 7.5%);
     }
   }
 
