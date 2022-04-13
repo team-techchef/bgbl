@@ -26,3 +26,9 @@
     background-color: $tertiary-300;
   }
 }
+@media screen and (max-width: $bp-400) {
+  .container {
+    display: flex;
+    flex-flow: column nowrap;
+  }
+}
