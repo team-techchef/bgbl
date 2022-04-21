@@ -4,10 +4,11 @@
 @include normalize();
 
 body {
+  background-color: $background-new;
   font-family: $font-family;
 
   .header-1 {
-    color: $tertiary-200;
+    color: darken($primary-100, 15);
     font-size: $font-size-500;
     font-style: italic;
     font-weight: normal;
@@ -15,7 +16,7 @@ body {
   }
 
   .header-two {
-    color: $tertiary-200;
+    color: darken($primary-100, 15);
     font-size: $font-size-400;
     font-weight: $font-weight-bold;
     margin-bottom: $spacing-200;

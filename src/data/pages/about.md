@@ -2,6 +2,10 @@
 title: 'Brown Girl Book Lover - About'
 description: 'About the creator of Brown Girl Book Lover - Leslie-Ann Murray'
 header: 'About'
+cta:
+  quote: Sign up for our bimonthly newsletter, Come Get Your Diversity to keep up!
+  link: /newsletter-archive
+  author:
 blockQuote:
   image:
     src: /imgs/girl-book.webp
@@ -17,20 +21,28 @@ authorImage:
 siteFacts:
   title: Brown Girl Book Lover Facts
   facts:
-    - Reviewing books that should be at the forefront of our imagination.
-    - Reviewing books that are shifting our literary world.
-    - Unearthing published books that did not receive the limelight.
-authorFacts:
-  title: Leslie-Ann Murray Facts
-  facts:
-    - I make really good smoothies!
-    - I'm an avid runner!
-    - I'm a plant mom!
-    - I'm working on my first novel, "This Has Made Us Beautiful."
+    - text: Reviewing books that should be at the forefront of our imagination.
+    - text: Reviewing books that are shifting our literary world.
+    - text: Unearthing published books that did not receive the limelight.
+socials:
+  title: We Are Very Social
+  items:
+    - text: Facebook
+      link: https://www.facebook.com/browngirlbooklover/
+    - text: Instagram
+      link: https://www.instagram.com/browngirlbooklover/
+    - text: YouTube
+      link: https://www.youtube.com/user/Lmurray81
+    - text: Contact Me!
+      link: mailto:lmurray81@gmail.com
 ---
 
 ## Leslie-Ann Murray
 
-My name is Leslie Ann Murray and I’m a fiction writer and book lover from Trinidad and Tobago. I’m currently living in Brooklyn, New York, but before living here I’ve lived in France, Bangladesh, China, South Africa, and a random small town in New England.
+My name is Leslie Ann Murray and I’m a fiction writer and book lover from Trinidad and Tobago. I grew up in East Flatbush, Brookly, and I’m currently living in Crown Heights, Brooklyn.
 
-I started Brown Girl Book Lover because we need more diverse book reviewers. My primary focus is to review diverse books and interview writers who are unearthing new ways for us to think.
+At Brown Girl Book Lover we: review diverse books and interview diverse writers. We unearth published books that did not receive the limelight. Most importantly, we talk about books that should be at the forefront of our imagination.
+
+What makes us different? I have spent over ten years teaching and preaching about the importance of diversity in literature. I have taught writing workshops and presented on literary panels in South Africa, China, New York City, Trinidad, Bangladesh, and France.
+
+We believe that books are magic and we are creating a space for everyone to find their super power.

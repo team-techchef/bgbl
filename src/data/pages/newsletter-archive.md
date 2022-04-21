@@ -5,7 +5,7 @@ description: >-
 header: Come Get This Diversity!
 list:
   id: cgtd
-  label: Come Get This Diversity!
+  label: Come Get This Diversity! (Newsletter Archive)
   notice: Keep updated on the latest book debuts, diversity trends in publishing, and features on published books that did not receive the limelight. Sign-up for my bi-monthly newsletter to stay in the literary loop!
   blockQuote:
     quote: 'We die. That may be the meaning of life. But we do language. That may be the measure of our lives.'

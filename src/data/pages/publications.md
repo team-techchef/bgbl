@@ -2,16 +2,15 @@
 title: Brown Girl Book Lover - Publications
 description: 'Great writings selected by Brown Girl Book Lover'
 header: ''
-subheader: Stay tuned for more writing!
+blockQuote:
+  quote: I’m a book lover, writer, and I have received my MFA in creative writing from Rutgers University.  I have been publishing essays, book reviews, and short stories for over ten years. I’m currently working on my first novel, ‘This has made us beautiful.’
+  author: LAM
+  image:
+    src: /imgs/bq-2.webp
+    alt:
 bookReviews:
   title: Book Reviews
   publications:
-    # - title: '"I''m writing to You Letters from Writers of the Black Literary Community."'
-    #   image:
-    #     alt: I'm writing to You Letters from Writers of the Black Literary Community.
-    #     src: /imgs/publication1.webp
-    #   link: https://www.pw.org/content/dearest_tayari
-    #   linkText: READ THE FULL STORY
     - title: Unraveling Reality in Lesser Known Monsters of the 21st Century
       type: Book Review
       image:
@@ -36,9 +35,15 @@ bookReviews:
 essaysArticles:
   title: Essays & Articles
   publications:
-    - title: "The Mother of All Stories"
+    - title: '200 Words From Around the World'
       image:
-        alt: "The Mother of All Stories"
+        alt: '200 Words From Around the World'
+        src: /imgs/pub_thwfatw.webp
+      link: https://politiken.dk/udland/art7736260/Tulimeyo-i-Namibia-opdagede-at-hun-ikke-rigtig-havde-levet-i-sit-45-%C3%A5rige-liv.-L%C3%A6s-beretningerne-fra-hele-verden-om-livet-under-coronakrisen
+      linkText: READ THE FULL STORY
+    - title: 'The Mother of All Stories'
+      image:
+        alt: 'The Mother of All Stories'
         src: /imgs/pub_tmoas.webp
       link: /pdfs/pub_tmoas.pdf
       linkText: READ THE FULL STORY

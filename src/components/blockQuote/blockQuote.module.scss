@@ -1,4 +1,4 @@
-@import '../../themes/theme';
+@import 'themes/theme';
 
 .blockquote {
   background-color: rgba($neutral-500, 0.7);
@@ -11,6 +11,13 @@
   width: 100%;
   margin-bottom: $spacing-100;
   grid-column: 1 / span 3;
+
+  &.color:nth-of-type(odd) {
+    background-color: $tertiary-300;
+  }
+  &.color:nth-of-type(even) {
+    background-color: $secondary-100;
+  }
 
   p {
     font-size: clamp($font-size-300, 1vw, $font-size-500);
@@ -53,13 +60,6 @@
     transform: translateY($spacing-150);
   }
 }
-
-// @media only screen and (max-width: 768px) {
-//   .carousel-container {
-//     max-width: 100%;
-//     width: 100%;
-//   }
-// }
 
 @media screen and (min-width: $bp-300) {
   .blockquote {

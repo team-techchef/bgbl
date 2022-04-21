@@ -1,9 +1,9 @@
-@import '../../themes/theme';
+@import 'themes/theme';
 
 .container {
   display: grid;
   grid-gap: 24px 16px;
-  grid-template-columns: repeat(auto-fit, minmax(150px, auto));
+  grid-template-columns: repeat(auto-fit, minmax(160px, auto));
 }
 
 .badge {
@@ -19,10 +19,16 @@
   }
 
   &:nth-of-type(2n) {
-    background-color: $primary-100;
+    background-color: $secondary-100;
   }
 
   &:nth-of-type(3n) {
-    background-color: $tertiary-200;
+    background-color: $tertiary-300;
+  }
+}
+@media screen and (max-width: $bp-400) {
+  .container {
+    display: flex;
+    flex-flow: column nowrap;
   }
 }

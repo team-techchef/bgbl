@@ -4,15 +4,16 @@
 @import './layout';
 
 // brand primary
-$primary-100: rgb(11, 79, 108);
+$primary-100: black;
 
 // brand secondary
-$secondary-100: rgb(191, 208, 218);
+$secondary-100: #f85d7c;
+$tertiary-300: #7666b2;
+$tertiary-200: darken(#69ddff, 15);
+$tertiary-100: darken(#f0e6ef, 15);
 
-// brand tertiary
-$tertiary-100: rgb(203, 170, 134);
-$tertiary-200: rgb(112, 78, 46);
-$tertiary-300: rgb(37, 34, 31);
+// new
+$background-new: #f7efee;
 
 // neutrals
 $neutral-100: $black-200;

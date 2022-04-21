@@ -1,9 +1,9 @@
-import styles from './blockQuote.module.scss';
-import Image from 'components/image/image';
-import { FaQuoteLeft, FaQuoteRight } from 'react-icons/fa';
+import styles from './blockQuote.module.scss'
+import Image from 'components/image/image'
+import { FaQuoteLeft, FaQuoteRight } from 'react-icons/fa'
 
 const BlockQuote = ({ image, quote, book, author, location }) => (
-  <blockquote className={styles.blockquote}>
+  <blockquote className={`${styles.blockquote} ${image || styles.color}`}>
     {image && (
       <div className={styles['img-container']}>
         <Image src={image.src} alt={image.alt} />
@@ -11,15 +11,15 @@ const BlockQuote = ({ image, quote, book, author, location }) => (
     )}
     <p>
       <span className={`${styles.quote} ${styles.left}`}>
-        <FaQuoteLeft />
+        {author && author.length > 0 && <FaQuoteLeft />}
       </span>
       {quote}
       <span className={`${styles.quote} ${styles.right}`}>
-        <FaQuoteRight />
+        {author && author.length > 0 && <FaQuoteRight />}
       </span>
     </p>
     <footer>
-      —{author}
+      {author && author !== 'LAM' && <>- {author}</>}
       {book && (
         <>
           , <cite>{book}</cite>
@@ -36,6 +36,6 @@ const BlockQuote = ({ image, quote, book, author, location }) => (
       )}
     </footer>
   </blockquote>
-);
+)
 
-export default BlockQuote;
+export default BlockQuote

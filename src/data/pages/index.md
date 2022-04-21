@@ -11,8 +11,6 @@ blockQuote:
   quote: Another world is not only possible, she is on her way. On a quiet day, I can hear her breathing.
   book: null
   author: Arundhati Roy
-  link: /publications
-  cta_text: Recent Book Reviews
 callToActionCards:
   - image:
       src: /imgs/Leslie-Ann.webp
@@ -22,7 +20,7 @@ callToActionCards:
 drawer:
   - list:
       id: nbwd
-      label: New Book Who Dis?
+      label: Video Interviews Series
       notice: Want more diverse books in your life? Check out these interviews with diverse writers who are shifting the literary world.
       books:
         - title: Blue Skinned Gods

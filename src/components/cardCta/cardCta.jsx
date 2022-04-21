@@ -6,9 +6,11 @@ const CardCta = forwardRef(({ image, text, children }) => {
   image = { ...image, isEvent: true }
   return (
     <figure className={styles.card}>
-      <div className={styles['img-container']}>
-        <Image {...image} />
-      </div>
+      {image && (
+        <div className={styles['img-container']}>
+          <Image {...image} />
+        </div>
+      )}
       <figcaption>
         {text}
         {children}

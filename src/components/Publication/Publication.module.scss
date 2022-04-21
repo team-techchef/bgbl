@@ -1,3 +1,4 @@
+@import 'themes/theme';
 .publication {
   border-radius: 0.25rem;
   color: white;
@@ -19,10 +20,10 @@
     margin: 5px 5px 0 0;
   }
 
-  &:nth-of-type(1n) {
-    background-color: #704e2e;
+  &:nth-of-type(odd) {
+    background-color: $secondary-100;
     &:hover {
-      background-color: darken(#704e2e, 7.5%);
+      background-color: darken($secondary-100, 7.5%);
     }
   }
 
@@ -48,10 +49,10 @@
     }
   }
 
-  &:nth-of-type(2n) {
-    background-color: #0b4f6c;
+  &:nth-of-type(even) {
+    background-color: $tertiary-300;
     &:hover {
-      background-color: darken(#0b4f6c, 7.5%);
+      background-color: darken($tertiary-300, 7.5%);
     }
   }
 }

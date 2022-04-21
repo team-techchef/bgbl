@@ -7,12 +7,12 @@ navLinks:
     name: home
   - href: /about
     name: about
-  - href: /cgtd
-    name: come get this diversity
+  - href: /newsletter-archive
+    name: newsletter archive
   - href: /events
     name: events
-  - href: /reading-now
-    name: reading now
+  - href: /community-reads
+    name: community reads
   - href: /publications
     name: publications
 ---
