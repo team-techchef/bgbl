@@ -14,6 +14,9 @@ list:
       src: /imgs/cgtd_quote_bg.webp
       alt: ''
   newsletters:
+    - title: The Sex Lives Of African Women
+      link: https://mailchi.mp/159f435778b8/lets-talk-about-sex?fbclid=IwAR2tYKRQgIkPKH7kvrE4yhLUkh0C_mog0WoBBv_waN5_imd6ttiYT2KEXzY
+      img: /imgs/cgtd_tsloaw.webp
     - title: Blue Skinned Gods
       link: https://mailchi.mp/f1285ee1ef66/blue-skinned-gods?fbclid=IwAR10fp8Kx1GFWy_7008MIXrg0R9VTNEMT-7b53KvpmR1lqSOErbAbreaLic
       img: /imgs/cgtd_bsg.webp
