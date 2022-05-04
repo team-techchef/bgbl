@@ -23,6 +23,9 @@ drawer:
       label: Video Interviews Series
       notice: Want more diverse books in your life? Check out these interviews with diverse writers who are shifting the literary world.
       books:
+        - title: The Sex Lives Of African Women
+          link: https://www.youtube.com/watch?v=PfO3brURSLU
+          img: /imgs/nbwd_tsloaw.webp
         - title: Blue Skinned Gods
           link: https://www.youtube.com/watch?v=zepSYytSc5A
           img: /imgs/nbwd_bsg.webp
