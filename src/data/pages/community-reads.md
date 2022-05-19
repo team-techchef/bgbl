@@ -4,6 +4,34 @@ description: >-
   What the book lovers are reading!
 header: What the book lovers are reading!
 tiles:
+  - name: Clyvis
+    location: Dominican Republic
+    book: Neruda On The Park
+    author: Clyvis Natera
+    image:
+      alt: Clyvis with Neruda On The Park
+      src: /imgs/rn_notp.webp
+  - name: Saraciea
+    location: Honduras
+    book: Wild Tongues Can't Be Tamed
+    author: Saraciea Fennell
+    image:
+      alt: Saraciea with Wild Tongues Can't Be Tamed
+      src: /imgs/rn_wtcbt.webp
+  - name: Elisabet
+    location: Brooklyn & Puerto Rico
+    book: When We Make It
+    author: Elisabet Velasquez
+    image:
+      alt: Elisabet with When We Make It
+      src: /imgs/rn_wwmi.webp
+  - name: Rio
+    location: Utah & Harlem World
+    book: The ABC's of Black History
+    author: Rio Cortez
+    image:
+      alt: Rio with The ABC's of Black History
+      src: /imgs/rn_tabcobh.webp
   - name: Linda
     location: Ghana
     book: The Jero Plays
