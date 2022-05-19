@@ -27,6 +27,18 @@ upComingEvent:
 pastEvent:
   title: Past Events
   events:
+    - title: Award winning poet, Dr. Elizabeth Alexander and  Pulitzer prize winning writer, Salamishah Tillet at the Montclair Literary Festival.
+      image:
+        src: /imgs/ev_mlf_1.webp
+        alt: Award winning poet, Dr. Elizabeth Alexander and  Pulitzer prize winning writer, Salamishah Tillet at the Montclair Literary Festival.
+    - title: Four popular Latinx women writers – Cleyvis Natera, Elisabet Velazquez,  Rio Cortez, Saraciea J. Fennell with Angela Abreu at the Montclair Literary Festival.
+      image:
+        src: /imgs/ev_mlf_2.webp
+        alt: Four popular Latinx women writers – Cleyvis Natera, Elisabet Velazquez,  Rio Cortez, Saraciea J. Fennell with Angela Abreu at the Montclair Literary Festival.
+    - title: Joyce Carol Oates, Leslie-Ann Murray, Dr. Elizabeth Alexander and Salamishah Tillet at the Montclair Literary Festival.
+      image:
+        src: /imgs/ev_mlf_3.webp
+        alt: Joyce Carol Oates, Leslie-Ann Murray, Dr. Elizabeth Alexander and Salamishah Tillet at the Montclair Literary Festival.
     - title: American Library of Paris
       image:
         src: /imgs/event-paris-1.webp
