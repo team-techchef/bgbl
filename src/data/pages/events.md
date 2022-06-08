@@ -10,23 +10,30 @@ upComingEvent:
   title: Upcoming Events
   events:
     - title: "The Writer's Nook"
-      date: '3/19/2022, 4/16/2022, 5/21/2022'
+      date: '6/25/2022'
       image:
-        src: /imgs/events_twn.webp
+        src: /imgs/ev_wnwwc.webp
         alt: "The Writer's Nook"
       location: Online
-      link: https://mywpl.org/article/adult-classes-and-programs
-    - title: '8-Weeks Online Fiction Writing I/II'
-      date: 3/8/2022
-      image:
-        src: /imgs/events_8wofw.webp
-        alt: 8-Weeks Online Fiction Writing I/II
-      location: Online (weekly video meet-up Tuesdays 7-9pm ET)
-      link: https://sackettworkshop.com/writing/apply-now/
-      details: /pdfs/events_8wofw.pdf
+      link: https://form.jotform.com/221436016096350
 pastEvent:
   title: Past Events
   events:
+    # - title: "The Writer's Nook"
+    #   date: '3/19/2022, 4/16/2022, 5/21/2022'
+    #   image:
+    #     src: /imgs/events_twn.webp
+    #     alt: "The Writer's Nook"
+    #   location: Online
+    #   link: https://mywpl.org/article/adult-classes-and-programs
+    # - title: '8-Weeks Online Fiction Writing I/II'
+    #   date: 3/8/2022
+    #   image:
+    #     src: /imgs/events_8wofw.webp
+    #     alt: 8-Weeks Online Fiction Writing I/II
+    #   location: Online (weekly video meet-up Tuesdays 7-9pm ET)
+    #   link: https://sackettworkshop.com/writing/apply-now/
+    #   details: /pdfs/events_8wofw.pdf
     - title: Award winning poet, Dr. Elizabeth Alexander and  Pulitzer prize winning writer, Salamishah Tillet at the Montclair Literary Festival.
       image:
         src: /imgs/ev_mlf_1.webp
