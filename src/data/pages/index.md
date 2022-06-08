@@ -23,6 +23,9 @@ drawer:
       label: Video Interviews Series
       notice: Want more diverse books in your life? Check out these interviews with diverse writers who are shifting the literary world.
       books:
+        - title: The Hidden History of Women-Led Slave Revolts
+          link: https://www.youtube.com/watch?v=c0rQdkRe2-k
+          img: /imgs/nbwd_thhowlsr.webp
         - title: The Sex Lives Of African Women
           link: https://www.youtube.com/watch?v=PfO3brURSLU
           img: /imgs/nbwd_tsloaw.webp

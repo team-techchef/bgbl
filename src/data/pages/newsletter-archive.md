@@ -14,6 +14,9 @@ list:
       src: /imgs/cgtd_quote_bg.webp
       alt: ''
   newsletters:
+    - title: The Hidden History of Women-Led Slave Revolts
+      link: https://mailchi.mp/06ed98b08735/this-is-not-the-heat-weve-been-praying-for?fbclid=IwAR3OJTv5B04AUOadAFL3hq4czXfn-CRLOpjG0dpOCh1xR27E561XfXB6oOs
+      img: /imgs/cgtd_thhowlsr.webp
     - title: The Sex Lives Of African Women
       link: https://mailchi.mp/159f435778b8/lets-talk-about-sex?fbclid=IwAR2tYKRQgIkPKH7kvrE4yhLUkh0C_mog0WoBBv_waN5_imd6ttiYT2KEXzY
       img: /imgs/cgtd_tsloaw.webp
