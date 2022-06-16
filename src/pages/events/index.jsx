@@ -32,7 +32,6 @@ const Events = ({ data }) => {
               return (
                 <div>
                   <CardCta
-                    key={i}
                     link={obj?.link}
                     key={`upComingEvent${i}`}
                     image={obj?.image}

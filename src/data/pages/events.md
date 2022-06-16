@@ -9,6 +9,13 @@ header: Workshops and Events
 upComingEvent:
   title: Upcoming Events
   events:
+    - title: "Schomburg Center Literary Festival"
+      date: '6/18/2022'
+      image:
+        src: /imgs/ev_sclf.webp
+        alt: "Schomburg Center Literary Festival"
+      location: Aaron Douglas Reading Room
+      link: https://www.schomburgcenterlitfest.org/schedule2022
     - title: "The Writer's Nook"
       date: '6/25/2022'
       image:
@@ -34,6 +41,22 @@ pastEvent:
     #   location: Online (weekly video meet-up Tuesdays 7-9pm ET)
     #   link: https://sackettworkshop.com/writing/apply-now/
     #   details: /pdfs/events_8wofw.pdf
+    - title: 'Sackett Street Writers: Writing Sprints Workshop 1' 
+      image:
+        src: /imgs/ev_ssw_1.webp
+        alt: 'Sackett Street Writers: Writing Sprints Workshop'
+    - title: 'Sackett Street Writers: Writing Sprints Workshop 2'
+      image:
+        src: /imgs/ev_ssw_2.webp
+        alt: 'Sackett Street Writers: Writing Sprints Workshop'
+    - title: 'Sackett Street Writers: Writing Sprints Workshop 3'
+      image:
+        src: /imgs/ev_ssw_3.webp
+        alt: 'Sackett Street Writers: Writing Sprints Workshop'
+    - title: 'Sackett Street Writers: Writing Sprints Workshop 4'
+      image:
+        src: /imgs/ev_ssw_4.webp
+        alt: 'Sackett Street Writers: Writing Sprints Workshop'
     - title: Award winning poet, Dr. Elizabeth Alexander and  Pulitzer prize winning writer, Salamishah Tillet at the Montclair Literary Festival.
       image:
         src: /imgs/ev_mlf_1.webp
