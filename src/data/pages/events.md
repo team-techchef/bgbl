@@ -45,7 +45,7 @@ pastEvent:
       image:
         src: /imgs/Leslie-Ann.webp
         alt: 'Brown Girl Book Lover Founder_ Leslie Ann Murray'
-    - title: 'Brown Girl Book Lover Founder_ Leslie Ann Murray' 
+    - title: 'Brown Girl Book Lover Founder_ Leslie Ann Murray 1' 
       image:
         src: /imgs/ev_ssw_1.webp
         alt: 'Sackett Street Writers: Writing Sprints Workshop'
