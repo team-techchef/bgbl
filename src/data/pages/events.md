@@ -41,7 +41,11 @@ pastEvent:
     #   location: Online (weekly video meet-up Tuesdays 7-9pm ET)
     #   link: https://sackettworkshop.com/writing/apply-now/
     #   details: /pdfs/events_8wofw.pdf
-    - title: 'Sackett Street Writers: Writing Sprints Workshop 1' 
+    - title: 'Brown Girl Book Lover Founder_ Leslie Ann Murray' 
+      image:
+        src: /imgs/Leslie-Ann.webp
+        alt: 'Brown Girl Book Lover Founder_ Leslie Ann Murray'
+    - title: 'Brown Girl Book Lover Founder_ Leslie Ann Murray' 
       image:
         src: /imgs/ev_ssw_1.webp
         alt: 'Sackett Street Writers: Writing Sprints Workshop'
