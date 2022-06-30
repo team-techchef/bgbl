@@ -43,7 +43,7 @@ pastEvent:
     #   details: /pdfs/events_8wofw.pdf
     - title: 'Brown Girl Book Lover Founder_ Leslie Ann Murray' 
       image:
-        src: /imgs/Leslie-Ann.webp
+        src: /imgs/Brown Girl Book Lover Founder_ Leslie Ann Murray.jpg
         alt: 'Brown Girl Book Lover Founder_ Leslie Ann Murray'
     - title: 'Sackett Street Writers: Writing Sprints Workshop' 
       image:
