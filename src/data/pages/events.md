@@ -45,6 +45,14 @@ pastEvent:
       image:
         src: /imgs/Brown Girl Book Lover Founder_ Leslie Ann Murray.jpg
         alt: 'Brown Girl Book Lover Founder_ Leslie Ann Murray'
+    - title: 'Jacinda Townsend_ author of Mother Country_ LAM_ and Cleyvis Natera_ author of Neruda on The Park' 
+      image:
+        src: /imgs/Jacinda Townsend_ author of Mother Country_ LAM_ and Cleyvis Natera_ author of Neruda on The Park.jpg
+        alt: 'Jacinda Townsend_ author of Mother Country_ LAM_ and Cleyvis Natera_ author of Neruda on The Park'
+    - title: 'Ladee Hubbard_  author of The Rib King' 
+      image:
+        src: /imgs/Ladee Hubbard_  author of The Rib King.jpg
+        alt: 'Ladee Hubbard_  author of The Rib King'
     - title: 'Sackett Street Writers: Writing Sprints Workshop' 
       image:
         src: /imgs/ev_ssw_1.webp
