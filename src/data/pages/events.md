@@ -41,7 +41,7 @@ pastEvent:
     #   location: Online (weekly video meet-up Tuesdays 7-9pm ET)
     #   link: https://sackettworkshop.com/writing/apply-now/
     #   details: /pdfs/events_8wofw.pdf
-     - title: 'Brown Girl Book Lover Founder_ Leslie Ann Murray' 
+    - title: 'Brown Girl Book Lover Founder_ Leslie Ann Murray' 
       image:
         src: /imgs/Brown Girl Book Lover Founder_ Leslie Ann Murray.jpg
         alt: 'Brown Girl Book Lover Founder_ Leslie Ann Murray'
