@@ -11,11 +11,11 @@ blockQuote:
 bookReviews:
   title: Book Reviews
   publications:
-     - title: A Place to Call Home in Dele Weds Destiny
-       type: Book Review
-       image:
-         alt: A Place to Call Home in Dele Weds Destiny
-         src: /imgs/Dele-Weds-Destiny-Banner-Blog-220629.png
+    - title: A Place to Call Home in Dele Weds Destiny
+      type: Book Review
+      image:
+        alt: A Place to Call Home in Dele Weds Destiny
+        src: /imgs/Dele-Weds-Destiny-Banner-Blog-220629.png
       link: https://blog.pshares.org/a-place-to-call-home-in-dele-weds-destiny/
       linkText: READ THE FULL STORY
     - title: Unraveling Reality in Lesser Known Monsters of the 21st Century
