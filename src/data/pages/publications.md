@@ -11,10 +11,10 @@ blockQuote:
 bookReviews:
   title: Book Reviews
   publications:
-    - title: Dele Weds Destiny by Tomi Obaro
+    - title: A Place to Call Home in Dele Weds Destiny
       type: Book Review
       image:
-        alt: Dele Weds Destiny by Tomi Obaro
+        alt: A Place to Call Home in Dele Weds Destiny
         src: /imgs/Dele-Weds-Destiny-Banner-Blog-220629.png
       link: https://blog.pshares.org/a-place-to-call-home-in-dele-weds-destiny/
       linkText: READ THE FULL STORY
