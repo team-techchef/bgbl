@@ -41,7 +41,27 @@ pastEvent:
     #   location: Online (weekly video meet-up Tuesdays 7-9pm ET)
     #   link: https://sackettworkshop.com/writing/apply-now/
     #   details: /pdfs/events_8wofw.pdf
-    - title: 'Brown Girl Book Lover Founder_ Leslie Ann Murray' 
+    - title: 'Ainehi Edoro of Brittle Paper and Leslie-Ann Murray' 
+      image:
+        src: /imgs/Ainehi Edoro of Brittle Paper and Leslie-Ann Murray.png
+        alt: 'Ainehi Edoro of Brittle Paper and Leslie-Ann Murray'
+    - title: 'Bryant Terry possing with his book_ Black food' 
+      image:
+        src: /imgs/Bryant Terry possing with his book_ Black food.png
+        alt: 'Bryant Terry possing with his book_ Black food'
+    - title: 'Galeb Gayle_ author of We Refuse To Forgot' 
+      image:
+        src: /imgs/Galeb Gayle_ author of We Refuse To Forgot.png
+        alt: 'Galeb Gayle_ author of We Refuse To Forgot'
+    - title: 'Kemi Alabi_ author of Against Heaven' 
+      image:
+        src: /imgs/Kemi Alabi_ author of Against Heaven.png
+        alt: 'Kemi Alabi_ author of Against Heaven'
+    - title: 'Mateo Askaripour_ author of Black Buck'
+      image:
+        src: /imgs/Mateo Askaripour_ author of Black Buck.png
+        alt: 'Mateo Askaripour_ author of Black Buck'
+    - title: 'Brown Girl Book Lover Founder_ Leslie Ann Murray'
       image:
         src: /imgs/Brown Girl Book Lover Founder_ Leslie Ann Murray.jpg
         alt: 'Brown Girl Book Lover Founder_ Leslie Ann Murray'
