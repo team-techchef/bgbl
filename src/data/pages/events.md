@@ -41,7 +41,7 @@ pastEvent:
     #   location: Online (weekly video meet-up Tuesdays 7-9pm ET)
     #   link: https://sackettworkshop.com/writing/apply-now/
     #   details: /pdfs/events_8wofw.pdf
-    - title: 'Aiehi Edoro of Brittle Paper and Leslie-Ann Murray' 
+    - title: 'Ainehi Edoro of Brittle Paper and Leslie-Ann Murray' 
       image:
         src: /imgs/Ainehi Edoro of Brittle Paper and Leslie-Ann Murray.png
         alt: 'Ainehi Edoro of Brittle Paper and Leslie-Ann Murray'
