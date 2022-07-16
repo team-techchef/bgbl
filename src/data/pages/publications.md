@@ -11,7 +11,7 @@ blockQuote:
 bookReviews:
   title: Book Reviews
   publications:
-    - title: A Place to Call Home in Dele Weds Destiny
+    - title: Dele Weds Destiny by Tomi Obaro
       type: Book Review
       image:
         alt: Dele Weds Destiny by Tomi Obaro
