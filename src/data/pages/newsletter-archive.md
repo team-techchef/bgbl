@@ -14,6 +14,9 @@ list:
       src: /imgs/cgtd_quote_bg.webp
       alt: ''
   newsletters:
+    - title: Neruda on the Park
+      link: https://mailchi.mp/9cecc90b6c35/pride-meets-caribbean-magic?fbclid=IwAR0WtWEmCNZtq9LTw4_erPo6QqeKq1GtOUiMcsUjWA7AH3uePAyR_IeXU8I
+      img: /imgs/Use for newsletter archive photo.jpg
     - title: The Hidden History of Women-Led Slave Revolts
       link: https://mailchi.mp/06ed98b08735/this-is-not-the-heat-weve-been-praying-for?fbclid=IwAR3OJTv5B04AUOadAFL3hq4czXfn-CRLOpjG0dpOCh1xR27E561XfXB6oOs
       img: /imgs/cgtd_thhowlsr.webp
