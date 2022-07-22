@@ -9,20 +9,13 @@ header: Workshops and Events
 upComingEvent:
   title: Upcoming Events
   events:
-    - title: "Schomburg Center Literary Festival"
-      date: '6/18/2022'
+    - title: "8-week Online Fiction Writing Workshop"
+      date: '9/13/2022'
       image:
-        src: /imgs/ev_sclf.webp
-        alt: "Schomburg Center Literary Festival"
-      location: Aaron Douglas Reading Room
-      link: https://www.schomburgcenterlitfest.org/schedule2022
-    - title: "The Writer's Nook"
-      date: '6/25/2022'
-      image:
-        src: /imgs/ev_wnwwc.webp
-        alt: "The Writer's Nook"
-      location: Online
-      link: https://form.jotform.com/221436016096350
+        src: /imgs/upcoming-event-new.png
+        alt: "8-week Online Fiction Writing Workshop"
+      location: Online (weekly video meet-up Tuesdays 7-9pm ET)
+      link: https://sackettworkshop.com/writing/2022/01/03/8-week-online-fiction-writing-i-ii-begins-week-of-2-7-22/
 pastEvent:
   title: Past Events
   events:
