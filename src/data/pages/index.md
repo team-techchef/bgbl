@@ -23,9 +23,9 @@ drawer:
       label: Video Interviews Series
       notice: Want more diverse books in your life? Check out these interviews with diverse writers who are shifting the literary world.
       books:
-        - title: Cleyvis Natera , Neruda on the Park
+        - title: Neruda on the Park
           link: https://www.youtube.com/watch?v=Op_7_fqdxjs
-          img: /imgs/Cleyvis Natera , Neruda on the Park.PNG
+          img: /imgs/Neruda On The Park.jpg
         - title: The Hidden History of Women-Led Slave Revolts
           link: https://www.youtube.com/watch?v=c0rQdkRe2-k
           img: /imgs/nbwd_thhowlsr.webp
