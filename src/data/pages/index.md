@@ -25,7 +25,7 @@ drawer:
       books:
         - title: Neruda on the Park
           link: https://www.youtube.com/watch?v=Op_7_fqdxjs
-          img: /imgs/Neruda On The Park.jpg.jpg
+          img: /imgs/Neruda On The Park.jpg
         - title: The Hidden History of Women-Led Slave Revolts
           link: https://www.youtube.com/watch?v=c0rQdkRe2-k
           img: /imgs/nbwd_thhowlsr.webp
