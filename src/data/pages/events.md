@@ -38,47 +38,47 @@ pastEvent:
       image:
         src: /imgs/Ainehi Edoro of Brittle Paper and Leslie-Ann Murray.png
         alt: 'Ainehi Edoro of Brittle Paper and Leslie-Ann Murray'
-    - title: 'Bryant Terry possing with his book_ Black food' 
+    - title: 'Bryant Terry posing with his book, "Black Food."' 
       image:
         src: /imgs/Bryant Terry possing with his book_ Black food.png
-        alt: 'Bryant Terry possing with his book_ Black food'
-    - title: 'Galeb Gayle_ author of We Refuse To Forgot' 
+        alt: 'Bryant Terry posing with his book, "Black Food."'
+    - title: 'Galeb Gayle, author of "We Refuse To Forgot."' 
       image:
         src: /imgs/Galeb Gayle_ author of We Refuse To Forgot.png
-        alt: 'Galeb Gayle_ author of We Refuse To Forgot'
-    - title: 'Kemi Alabi_ author of Against Heaven' 
+        alt: 'Galeb Gayle, author of "We Refuse To Forgot."'
+    - title: 'Kemi Alabi, author of "Against Heaven."' 
       image:
         src: /imgs/Kemi Alabi_ author of Against Heaven.png
-        alt: 'Kemi Alabi_ author of Against Heaven'
-    - title: 'Mateo Askaripour_ author of Black Buck'
+        alt: 'Kemi Alabi, author of "Against Heaven."'
+    - title: 'Mateo Askaripour, author of "Black Buck."'
       image:
         src: /imgs/Mateo Askaripour_ author of Black Buck.png
-        alt: 'Mateo Askaripour_ author of Black Buck'
-    - title: 'Brown Girl Book Lover Founder_ Leslie Ann Murray'
+        alt: 'Mateo Askaripour, author of "Black Buck."'
+    - title: 'Brown Girl Book Lover Founder, Leslie Ann Murray'
       image:
         src: /imgs/Brown Girl Book Lover Founder_ Leslie Ann Murray.jpg
-        alt: 'Brown Girl Book Lover Founder_ Leslie Ann Murray'
-    - title: 'Jacinda Townsend_ author of Mother Country_ LAM_ and Cleyvis Natera_ author of Neruda on The Park' 
+        alt: 'Brown Girl Book Lover Founder, Leslie Ann Murray'
+    - title: 'Jacinda Townsend, author of "Mother Country." Leslie-Ann Murray. Cleyvis Natera, author of "Neruda On The Park."' 
       image:
         src: /imgs/Jacinda Townsend_ author of Mother Country_ LAM_ and Cleyvis Natera_ author of Neruda on The Park.jpg
-        alt: 'Jacinda Townsend_ author of Mother Country_ LAM_ and Cleyvis Natera_ author of Neruda on The Park'
-    - title: 'Ladee Hubbard_  author of The Rib King' 
+        alt: 'Jacinda Townsend, author of "Mother Country." Leslie-Ann Murray. Cleyvis Natera, author of "Neruda On The Park."'
+    - title: 'Ladee Hubbard, author of "The Rib King."' 
       image:
         src: /imgs/Ladee Hubbard_  author of The Rib King.jpg
-        alt: 'Ladee Hubbard_  author of The Rib King'
+        alt: 'Ladee Hubbard, author of "The Rib King."'
     - title: 'Sackett Street Writers: Writing Sprints Workshop' 
       image:
         src: /imgs/ev_ssw_1.webp
         alt: 'Sackett Street Writers: Writing Sprints Workshop'
-    - title: 'Sackett Street Writers: Writing Sprints Workshop 2'
+    - title: 'Sackett Street Writers: Writing Sprints Workshop'
       image:
         src: /imgs/ev_ssw_2.webp
         alt: 'Sackett Street Writers: Writing Sprints Workshop'
-    - title: 'Sackett Street Writers: Writing Sprints Workshop 3'
+    - title: 'Sackett Street Writers: Writing Sprints Workshop'
       image:
         src: /imgs/ev_ssw_3.webp
         alt: 'Sackett Street Writers: Writing Sprints Workshop'
-    - title: 'Sackett Street Writers: Writing Sprints Workshop 4'
+    - title: 'Sackett Street Writers: Writing Sprints Workshop'
       image:
         src: /imgs/ev_ssw_4.webp
         alt: 'Sackett Street Writers: Writing Sprints Workshop'
