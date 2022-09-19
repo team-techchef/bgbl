@@ -23,6 +23,27 @@ drawer:
       label: Video Interviews Series
       notice: Want more diverse books in your life? Check out these interviews with diverse writers who are shifting the literary world.
       books:
+        - title: Vauhini Vara
+          link: https://www.youtube.com/watch?v=p1VCZzOo2P0
+          img: /imgs/Vauhini Vara .JPG
+        - title: Christine Torress
+          link: https://www.youtube.com/watch?v=jKLjf3X8BOc
+          img: /imgs/Christine Kandic Torres.JPG
+        - title: Jeni McFarland
+          link: https://www.youtube.com/watch?v=5I80QhHdOEQ&t=1s
+          img: /imgs/Jeni McFarland.JPG
+        - title: Tomi Obaro
+          link: https://www.youtube.com/watch?v=_vQk1CkFaL4
+          img: /imgs/Tomi Obaro.JPG
+        - title: Francesca Padilla
+          link: https://www.youtube.com/watch?v=lANjWIvm2Bk&t=20s
+          img: /imgs/Francesca Padilla.JPG
+        - title: Gabriela Aleman
+          link: https://www.youtube.com/watch?v=2OKucdSo-1w&t=3s
+          img: /imgs/Gabriela Aleman.JPG
+        - title: Rebecca Hall
+          link: https://www.youtube.com/watch?v=Sh-NaAYKkQg
+          img: /imgs/Rebecca Hall.JPG
         - title: Neruda on the Park
           link: https://www.youtube.com/watch?v=Op_7_fqdxjs
           img: /imgs/Neruda On The Park.jpg
