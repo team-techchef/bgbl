@@ -88,3 +88,10 @@ fiction:
       link: /writing/Plastic City Leslie-Ann Murray .pdf
       linkText: DOWNLOAD THE FULL STORY
 ---
+    - title: 'The Story In The Middle .'
+      image:
+        alt: 'The Story In The Middle '
+        src: /imgs/Brooklyn.jpg
+      link: https://indianreview.in/fiction/the-story-in-the-middle-brooklyn-1996/?fbclid=IwAR17GTpZTXkVCfNOHMkRm12Esy9zyA1TIc7pNPEAFOO5sYjFlem4L5jmdxw
+      linkText: READ THE FULL STORY
+---
