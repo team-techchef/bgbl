@@ -14,6 +14,9 @@ list:
       src: /imgs/cgtd_quote_bg.webp
       alt: ''
   newsletters:
+    - title: Beyonce was right!
+      link: https://us7.campaign-archive.com/?u=dce9a0fc69aa05a7b2a4be3ea&id=091e2d4403
+      img: /imgs/Newsletter photo.jpg
     - title: Neruda on the Park
       link: https://mailchi.mp/9cecc90b6c35/pride-meets-caribbean-magic?fbclid=IwAR0WtWEmCNZtq9LTw4_erPo6QqeKq1GtOUiMcsUjWA7AH3uePAyR_IeXU8I
       img: /imgs/newsleeter-neruda-otpark.jpg
