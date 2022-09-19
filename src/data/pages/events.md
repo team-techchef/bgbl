@@ -34,6 +34,22 @@ pastEvent:
     #   location: Online (weekly video meet-up Tuesdays 7-9pm ET)
     #   link: https://sackettworkshop.com/writing/apply-now/
     #   details: /pdfs/events_8wofw.pdf
+    - title: 'Jonathan Escoffery’s Book Launch' 
+      image:
+        src: /imgs/Jonathan Escoffery and LAM at Books Are Magic.jpg
+        alt: 'Jonathan Escoffery’s Book Launch'
+    - title: 'Jonathan Escoffery’s Book Launch' 
+      image:
+        src: /imgs/Jonathan Escoffery and LAM.jpg
+        alt: 'Jonathan Escoffery’s Book Launch'
+    - title: 'Jonathan Escoffery’s Book Launch' 
+      image:
+        src: /imgs/Nicole Dennis-Benn and LAM.jpg
+        alt: 'Jonathan Escoffery’s Book Launch'
+    - title: 'Jonathan Escoffery’s Book Launch' 
+      image:
+        src: /imgs/Robert Jones, Cleyvis Natera, Dawnie Walton, and LAM.jpg
+        alt: 'Jonathan Escoffery’s Book Launch'
     - title: 'Ainehi Edoro of Brittle Paper and Leslie-Ann Murray' 
       image:
         src: /imgs/Ainehi Edoro of Brittle Paper and Leslie-Ann Murray.png
