@@ -23,25 +23,25 @@ drawer:
       label: Video Interviews Series
       notice: Want more diverse books in your life? Check out these interviews with diverse writers who are shifting the literary world.
       books:
-        - title: Vauhini Vara
+        - title: The Immortal King Rao
           link: https://www.youtube.com/watch?v=p1VCZzOo2P0
           img: /imgs/Vauhini Vara .JPG
-        - title: Christine Torress
+        - title: The Girls In Queens
           link: https://www.youtube.com/watch?v=jKLjf3X8BOc
           img: /imgs/Christine Kandic Torres.JPG
-        - title: Jeni McFarland
+        - title: The House of Deep Water
           link: https://www.youtube.com/watch?v=5I80QhHdOEQ&t=1s
           img: /imgs/Jeni McFarland.JPG
-        - title: Tomi Obaro
+        - title: Dele Weds Destiny
           link: https://www.youtube.com/watch?v=_vQk1CkFaL4
           img: /imgs/Tomi Obaro.JPG
-        - title: Francesca Padilla
+        - title: What’s Coming To Me
           link: https://www.youtube.com/watch?v=lANjWIvm2Bk&t=20s
           img: /imgs/Francesca Padilla.JPG
-        - title: Gabriela Aleman
+        - title: Family Album
           link: https://www.youtube.com/watch?v=2OKucdSo-1w&t=3s
           img: /imgs/Gabriela Aleman.JPG
-        - title: Rebecca Hall
+        - title: Wake, The Graphic Novel
           link: https://www.youtube.com/watch?v=Sh-NaAYKkQg
           img: /imgs/Rebecca Hall.JPG
         - title: Neruda on the Park
