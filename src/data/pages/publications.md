@@ -45,7 +45,7 @@ essaysArticles:
     - title: 'Books For Hispanic Heritage Month'
       image:
         alt: 'Books For Hispanic Heritage Month'
-        src: /imgs/pub_thwfatw.webp
+        src: /imgs/Books For Hispanic Heritage Month.jpeg
       link: https://www.wnyc.org/story/books-hispanic-heritage-month/?fbclid=IwAR3CVN_HqLJku58OI-x1IocT4qEU02KPOwiL0VGARrclsOqSipZ2fvoBY7E
       linkText: HEAR THE FULL STORY
     - title: '200 Words From Around the World'
