@@ -23,6 +23,9 @@ drawer:
       label: Video Interviews Series
       notice: Want more diverse books in your life? Check out these interviews with diverse writers who are shifting the literary world.
       books:
+        - title: Olga Dies Dreaming!
+          link: https://www.youtube.com/watch?v=MlNFk3HmWio&t=454s
+          img: /imgs/Xochitl Gonzalez.JPG
         - title: The Immortal King Rao
           link: https://www.youtube.com/watch?v=p1VCZzOo2P0
           img: /imgs/Vauhini Vara .JPG
