@@ -14,7 +14,7 @@ list:
       src: /imgs/cgtd_quote_bg.webp
       alt: ''
   newsletters:
-    - title: New Newsletter!
+    - title: Latinx Writers Run Things!
       link: https://mailchi.mp/e38218ec8d3e/outside-aint-cute-stay-under-your-blankets-read
       img: /imgs/OLGA DIES DREAMING HIGH RES cover art.jpeg
     - title: Beyonce Was Right!
