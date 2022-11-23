@@ -11,7 +11,7 @@ tiles:
     image:
       alt: Orlando from Georgia reading, “The Coming by Daniel Black
       src: /imgs/Orlando.png
-    - name: Clyvis
+  - name: Clyvis
     location: Dominican Republic
     book: Neruda On The Park
     author: Clyvis Natera
