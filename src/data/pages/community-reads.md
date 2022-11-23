@@ -6,8 +6,8 @@ header: What the book lovers are reading!
 tiles:
   - name: Orlando
     location: Georgia 
-    book: The Coming by Daniel Black
-    author: Clyvis Natera
+    book: The Coming
+    author: Daniel Black
     image:
       alt: Orlando from Georgia reading, “The Coming by Daniel Black
       src: /imgs/Orlando.png
