@@ -4,7 +4,14 @@ description: >-
   What the book lovers are reading!
 header: What the book lovers are reading!
 tiles:
-  - name: Clyvis
+  - name: Orlando
+    location: Georgia 
+    book: The Coming by Daniel Black
+    author: Clyvis Natera
+    image:
+      alt: Orlando from Georgia reading, “The Coming by Daniel Black
+      src: /imgs/Orlando.png
+- name: Clyvis
     location: Dominican Republic
     book: Neruda On The Park
     author: Clyvis Natera
