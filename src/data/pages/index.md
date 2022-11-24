@@ -23,6 +23,9 @@ drawer:
       label: Video Interviews Series
       notice: Want more diverse books in your life? Check out these interviews with diverse writers who are shifting the literary world.
       books:
+        - title: If I Survive You!
+          link: https://www.youtube.com/watch?v=kUmAzxEUJrc&t=3s
+          img: /imgs/Jonathan Escoffery2.jpg
         - title: Olga Dies Dreaming!
           link: https://www.youtube.com/watch?v=MlNFk3HmWio
           img: /imgs/Xochitl Gonzalez.JPG
