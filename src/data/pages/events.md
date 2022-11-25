@@ -38,10 +38,10 @@ pastEvent:
       image:
         src: /imgs/Jonathan Escoffery and LAM at Books Are Magic.jpg
         alt: 'Jonathan Escoffery and LAM at Books Are Magic'
-    - title: 'Amelia.Possanza's Lesbian Love Story' 
+    - title: 'Amelia Possanza's Lesbian Love Story' 
       image:
         src: /imgs/Amelia.Possanza's Lesbian Love Story.png
-        alt: 'Amelia.Possanza's Lesbian Love Story'
+        alt: 'Amelia Possanza's Lesbian Love Story'
     - title: 'Another cafe and bookstore visit' 
       image:
         src: /imgs/Another cafe and bookstore visit.png
