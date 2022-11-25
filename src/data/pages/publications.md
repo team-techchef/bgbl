@@ -42,6 +42,12 @@ bookReviews:
 essaysArticles:
   title: Essays & Articles
   publications:
+    - title: 'Dearest Tayari'
+      image:
+        alt: 'Dearest Tayari'
+        src: /imgs/leslie-ann_murray_thumbnail.png
+      link: https://www.pw.org/content/dearest_tayari
+      linkText: HEAR THE FULL STORY
     - title: 'Books For Hispanic Heritage Month'
       image:
         alt: 'Books For Hispanic Heritage Month'
