@@ -38,6 +38,34 @@ pastEvent:
       image:
         src: /imgs/Jonathan Escoffery and LAM at Books Are Magic.jpg
         alt: 'Jonathan Escoffery and LAM at Books Are Magic'
+    - title: 'Amelia.Possanza's Lesbian Love Story'
+      image:
+        src: /imgs/Amelia.Possanza's Lesbian Love Story.png
+        alt: 'Amelia.Possanza's Lesbian Love Story'
+    - title: 'Another cafe and bookstore visit' 
+      image:
+        src: /imgs/Another cafe and bookstore visit.png
+        alt: 'Another cafe and bookstore visit'
+    - title: 'Hiking but still reading' 
+      image:
+        src: /imgs/Hiking but still reading.png
+        alt: 'Hiking but still reading'
+    - title: 'Jesus at Cafe Con Libros' 
+      image:
+        src: /imgs/Jesus at Cafe Con Libros.png
+        alt: 'Jesus at Cafe Con Libros'
+    - title: 'Vanessa A. Bee Home Bound'
+      image:
+        src: /imgs/Vanessa A. Bee Home Bound.png
+        alt: 'Vanessa A. Bee Home Bound'
+    - title: 'Visiting new bookstore_ Troubled Sleep' 
+      image:
+        src: /imgs/Visiting new bookstore_ Troubled Sleep.png
+        alt: 'Visiting new bookstore_ Troubled Sleep'
+    - title: 'When your friends get tried of you talking about books' 
+      image:
+        src: /imgs/When your friends get tried of you talking about books.png
+        alt: 'When your friends get tried of you talking about books'
     - title: 'Jonathan Escoffery and LAM' 
       image:
         src: /imgs/Jonathan Escoffery and LAM.jpg
