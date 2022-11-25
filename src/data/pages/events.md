@@ -34,10 +34,6 @@ pastEvent:
     #   location: Online (weekly video meet-up Tuesdays 7-9pm ET)
     #   link: https://sackettworkshop.com/writing/apply-now/
     #   details: /pdfs/events_8wofw.pdf
-    - title: 'Jonathan Escoffery and LAM at Books Are Magic' 
-      image:
-        src: /imgs/Jonathan Escoffery and LAM at Books Are Magic.jpg
-        alt: 'Jonathan Escoffery and LAM at Books Are Magic'
     - title: 'Amelia.Possanzas Lesbian Love Story' 
       image:
         src: /imgs/Amelia.Possanza's Lesbian Love Story.png
@@ -66,6 +62,10 @@ pastEvent:
       image:
         src: /imgs/When your friends get tried of you talking about books.png
         alt: 'When your friends get tried of you talking about books'
+    - title: 'Jonathan Escoffery and LAM at Books Are Magic' 
+      image:
+        src: /imgs/Jonathan Escoffery and LAM at Books Are Magic.jpg
+        alt: 'Jonathan Escoffery and LAM at Books Are Magic'
     - title: 'Jonathan Escoffery and LAM' 
       image:
         src: /imgs/Jonathan Escoffery and LAM.jpg
