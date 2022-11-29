@@ -25,7 +25,7 @@ drawer:
       books:
         - title: If I Survive You!
           link: https://www.youtube.com/watch?v=kUmAzxEUJrc&t=3s
-          img: /imgs/Jonathan Escoffery2.jpg
+          img: /imgs/resize.jpg
         - title: Olga Dies Dreaming!
           link: https://www.youtube.com/watch?v=MlNFk3HmWio
           img: /imgs/Xochitl Gonzalez.JPG
