@@ -16,7 +16,7 @@ list:
   newsletters:
     - title: Where My Caribbean People Them?
       link: https://mailchi.mp/cdc3ad8d24f5/it-should-cost-a-billion-to-look-this-good?fbclid=IwAR0_ruWhvJleiWz9e-AF7Li_pohDCiIww9q_i5qHR_72wQRut-V9kv4IEyk
-      img: /imgs/Jonathan Escoffery.jpg
+      img: /imgs/OLGA-DIES-DREAMING-HIGH-RES-cover-art.jpg
     - title: Latinx Writers Run Things!
       link: https://mailchi.mp/e38218ec8d3e/outside-aint-cute-stay-under-your-blankets-read
       img: /imgs/OLGA DIES DREAMING HIGH RES cover art.jpeg
