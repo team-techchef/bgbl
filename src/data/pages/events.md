@@ -34,6 +34,10 @@ pastEvent:
     #   location: Online (weekly video meet-up Tuesdays 7-9pm ET)
     #   link: https://sackettworkshop.com/writing/apply-now/
     #   details: /pdfs/events_8wofw.pdf
+    - title: 'Oghenechovwe Ekpeki and LAM' 
+      image:
+        src: /imgs/Oghenechovwe Ekpeki and LAM.png
+        alt: 'Oghenechovwe Ekpeki and LAM'
     - title: 'Amelia.Possanzas Lesbian Love Story' 
       image:
         src: /imgs/Amelia.Possanza's Lesbian Love Story.png
