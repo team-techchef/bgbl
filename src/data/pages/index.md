@@ -25,7 +25,7 @@ drawer:
       books:
         - title: How To Drown In A Glass Of Water.
           link: https://www.youtube.com/watch?v=MpNA3_iOpmQ
-          img: /imgs/Angie Cruz #1.jpg
+          img: /imgs/Angie Cruz.jpg
         - title: If I Survive You!
           link: https://www.youtube.com/watch?v=kUmAzxEUJrc&t=3s
           img: /imgs/resize.jpg
