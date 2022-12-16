@@ -34,6 +34,34 @@ pastEvent:
     #   location: Online (weekly video meet-up Tuesdays 7-9pm ET)
     #   link: https://sackettworkshop.com/writing/apply-now/
     #   details: /pdfs/events_8wofw.pdf
+    - title: 'Bridget Davis & LAM' 
+      image:
+        src: /imgs/Bridget Davis & LAM.JPG
+        alt: 'Bridget Davis & LAM'
+    - title: 'Jacqueline Woodson and LAM' 
+      image:
+        src: /imgs/Jacqueline Woodson and LAM.JPG
+        alt: 'Jacqueline Woodson and LAM'
+    - title: 'Naima Coster & Cleyvis Natera' 
+      image:
+        src: /imgs/Naima Coster & Cleyvis Natera
+        alt: 'Naima Coster & Cleyvis Natera'
+    - title: 'Renee Watson & LAM' 
+      image:
+        src: /imgs/Renee Watson & LAM.png
+        alt: 'Renee Watson & LAM'
+    - title: 'Robert Jones, Mateo Askaripour & LAM' 
+      image:
+        src: /imgs/Robert Jones, Mateo Askaripour & LAM.png
+        alt: 'Robert Jones, Mateo Askaripour & LAM'
+    - title: 'Robert Jones' 
+      image:
+        src: /imgs/Robert Jones.png
+        alt: 'Robert Jones'
+    - title: 'Sackett Street Workshop! I cannot believe I get to do what I love!' 
+      image:
+        src: /imgs/IMG_0007.png
+        alt: 'Sackett Street Workshop! I cannot believe I get to do what I love!'
     - title: 'Oghenechovwe Ekpeki and LAM' 
       image:
         src: /imgs/Oghenechovwe Ekpeki and LAM.png
