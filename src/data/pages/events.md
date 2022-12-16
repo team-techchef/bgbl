@@ -44,7 +44,7 @@ pastEvent:
         alt: 'Jacqueline Woodson and LAM'
     - title: 'Naima Coster & Cleyvis Natera' 
       image:
-        src: /imgs/Naima Coster & Cleyvis Natera
+        src: /imgs/Naima Coster & Cleyvis Natera.png
         alt: 'Naima Coster & Cleyvis Natera'
     - title: 'Renee Watson & LAM' 
       image:
