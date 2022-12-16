@@ -14,6 +14,9 @@ list:
       src: /imgs/cgtd_quote_bg.webp
       alt: ''
   newsletters:
+    - title: Angie Cruz
+      link: https://mailchi.mp/f199b6a03e6f/if-youre-lucky-you-find-a-man-that-you-dont-fall-in-the-hole-with?fbclid=IwAR1xoXeH3xeAtef0RCruDfiL-B1Uw6OaV_u1om_Chm25ijUD2XVeekvlGto
+      img: /imgs/Hownottodroe.jpg
     - title: Where My Caribbean People Them?
       link: https://mailchi.mp/cdc3ad8d24f5/it-should-cost-a-billion-to-look-this-good?fbclid=IwAR0_ruWhvJleiWz9e-AF7Li_pohDCiIww9q_i5qHR_72wQRut-V9kv4IEyk
       img: /imgs/OLGA-DIES-DREAMING-HIGH-RES-cover-art.jpg
