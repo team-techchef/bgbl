@@ -23,8 +23,11 @@ drawer:
       label: Video Interviews Series
       notice: Want more diverse books in your life? Check out these interviews with diverse writers who are shifting the literary world.
       books:
+        - title: The School of Good Mothers
+          link: https://www.youtube.com/watch?v=jC9g1oFr1TU&t
+          img: /imgs/Video Archive 2 (1).jpg
         - title: A Country You Can Leave
-          link: https://www.youtube.com/watch?v=FhXw11M-NFU&t=2s
+          link: https://www.youtube.com/watch?v=FhXw11M-NFU
           img: /imgs/Video Archive 1.jpg
         - title: How To Drown In A Glass Of Water.
           link: https://www.youtube.com/watch?v=MpNA3_iOpmQ
