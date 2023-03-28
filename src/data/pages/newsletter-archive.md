@@ -16,7 +16,7 @@ list:
   newsletters:
     - title: People are trapped in history and history is trapped in them.
       link: https://mailchi.mp/6b4c3513e902/screw-church-and-all-religion-the-library-is-the-most-important-institution?fbclid=IwAR1X9U3MzN6wLP2Rxqhs3znG3SyQ2MsFsFwfNv2qf0VYQ5khorhocV5g8BU
-      img: /imgs/Newsletter2.JPG
+      img: /imgs/Newsletter2.JPG.png
     - title: Angie Cruz
       link: https://mailchi.mp/f199b6a03e6f/if-youre-lucky-you-find-a-man-that-you-dont-fall-in-the-hole-with?fbclid=IwAR1xoXeH3xeAtef0RCruDfiL-B1Uw6OaV_u1om_Chm25ijUD2XVeekvlGto
       img: /imgs/Hownottodroe.jpg
