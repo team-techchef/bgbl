@@ -48,6 +48,18 @@ pastEvent:
     #   location: Online (weekly video meet-up Tuesdays 7-9pm ET)
     #   link: https://sackettworkshop.com/writing/apply-now/
     #   details: /pdfs/events_8wofw.pdf
+    - title: 'Another Sackett Street Writing class' 
+      image:
+        src: /imgs/Another Sackett Street Writing class.png
+        alt: 'Another Sackett Street Writing class'
+    - title: 'PEN Event' 
+      image:
+        src: /imgs/PEN Event.png
+        alt: 'PEN Event'
+    - title: 'Asale Angel-Ajani’s book launch' 
+      image:
+        src: /imgs/Writing workshop at The Free Black Women's Library.jpg
+        alt: 'Jacqueline Woodson and LAM'
     - title: 'Asale Angel-Ajani’s book launch' 
       image:
         src: /imgs/Writing workshop at The Free Black Women's Library.jpg
