@@ -34,7 +34,7 @@ pastEvent:
     #   location: Online (weekly video meet-up Tuesdays 7-9pm ET)
     #   link: https://sackettworkshop.com/writing/apply-now/
     #   details: /pdfs/events_8wofw.pdf
-    - title: 'Writing workshop at The Free Black Women's Library'
+    - title: 'Writing workshop at The Free Black Women's Library' 
       image:
         src: /imgs/Writing workshop at The Free Black Women's Library.jpg
         alt: 'Writing workshop at The Free Black Women's Library'
