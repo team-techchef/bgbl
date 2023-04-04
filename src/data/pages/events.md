@@ -34,6 +34,10 @@ pastEvent:
     #   location: Online (weekly video meet-up Tuesdays 7-9pm ET)
     #   link: https://sackettworkshop.com/writing/apply-now/
     #   details: /pdfs/events_8wofw.pdf
+    - title: 'Writing workshop at The Free Black Women's Library.jpg' 
+      image:
+        src: /imgs/Bridget Davis & LAM.JPG
+        alt: 'Writing workshop at The Free Black Women's Library.jpg'
     - title: 'Bridget Davis & LAM' 
       image:
         src: /imgs/Bridget Davis & LAM.JPG
