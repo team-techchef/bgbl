@@ -9,6 +9,20 @@ header: Workshops and Events
 upComingEvent:
   title: Upcoming Events
   events:
+    - title: "A Writing Workshop with Leslie-Ann Murray"
+      date: '3/12/2023'
+      image:
+        src: /imgs/Flyer1.jpg
+        alt: "A Writing Workshop with Leslie-Ann Murray"
+      location: TFBWL Reading Room 226 Marcus Garvey BLVD Brooklyn, NY
+      link: #
+    - title: "Writing the Best College Addmission Essay"
+      date: '3/18/2023'
+      image:
+        src: /imgs/Flyer2.png
+        alt: "Writing the Best College Addmission Essay"
+      location: Online
+      link: #
     - title: "8-week Online Fiction Writing Workshop"
       date: '9/13/2022'
       image:
