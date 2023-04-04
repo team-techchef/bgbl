@@ -36,7 +36,7 @@ pastEvent:
     #   details: /pdfs/events_8wofw.pdf
     - title: 'Writing workshop at The Free Black Women's Library' 
       image:
-        src: /imgs/Writing workshop at The Free Black Women's Library.jpg
+        src: /imgs/Writing Workshop at The Free Black Women's Library.jpg
         alt: 'Writing workshop at The Free Black Women's Library'
     - title: 'Bridget Davis & LAM' 
       image:
