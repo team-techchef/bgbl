@@ -38,6 +38,10 @@ pastEvent:
       image:
         src: /imgs/Bridget Davis & LAM.JPG
         alt: 'Bridget Davis & LAM'
+    - title: 'Writing workshop at The Free Black Women's Library' 
+      image:
+        src: /imgs/Writing workshop at The Free Black Women's Library.jpg
+        alt: '/Writing workshop at The Free Black Women's Library'
     - title: 'Jacqueline Woodson and LAM' 
       image:
         src: /imgs/Jacqueline Woodson and LAM.JPG
