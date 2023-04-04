@@ -37,7 +37,7 @@ pastEvent:
     - title: 'Asale Angel-Ajani’s book launch' 
       image:
         src: /imgs/Writing workshop at The Free Black Women's Library.jpg
-        alt: 'Asale Angel-Ajani’s book launch'
+        alt: 'Jacqueline Woodson and LAM'
     - title: 'Jacqueline Woodson and LAM' 
       image:
         src: /imgs/Jacqueline Woodson and LAM.JPG
