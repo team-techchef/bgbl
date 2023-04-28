@@ -12,7 +12,7 @@ upComingEvent:
     - title: "A Writing Workshop with Leslie-Ann Murray"
       date: '3/12/2023'
       image:
-        src: /imgs/Flyer1.jpg
+        src: /imgs/VlvZhsow.jpeg
         alt: "A Writing Workshop with Leslie-Ann Murray"
       location: TFBWL Reading Room 226 Marcus Garvey BLVD Brooklyn, NY
       link: #
