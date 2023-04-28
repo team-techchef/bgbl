@@ -17,9 +17,6 @@ list:
     - title: “People are trapped in history and history is trapped in them.”— James Baldwin
       link: https://mailchi.mp/6b4c3513e902/screw-church-and-all-religion-the-library-is-the-most-important-institution
       img: /imgs/Newsletter2.JPG.png
-    - title: “I am not free while any woman is unfree, even when her shackles are very different from my own.” —Audre Lorde
-      link: https://mailchi.mp/f199b6a03e6f/if-youre-lucky-you-find-a-man-that-you-dont-fall-in-the-hole-with
-      img: /imgs/Hownottodroe.jpg
     - title: “ The English language is nobody's special property. It is the property of the imagination: it is the property of the language itselfWalcott 
       link: https://mailchi.mp/cdc3ad8d24f5/it-should-cost-a-billion-to-look-this-good?fbclid=IwAR0_ruWhvJleiWz9e-AF7Li_pohDCiIww9q_i5qHR_72wQRut-V9kv4IEyk
       img: /imgs/OLGA-DIES-DREAMING-HIGH-RES-cover-art.jpg
