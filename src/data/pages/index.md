@@ -23,6 +23,9 @@ drawer:
       label: Video Interviews Series
       notice: Want more diverse books in your life? Check out these interviews with diverse writers who are shifting the literary world.
       books:
+        - title: Roses, In The Mouth of A Lion
+          link: https://www.youtube.com/watch?v=Nq745L5ZTos
+          img: /imgs/Video Archive 2.jpg
         - title: The School of Good Mothers
           link: https://www.youtube.com/watch?v=jC9g1oFr1TU&t
           img: /imgs/Video Archive 2 (1).jpg
