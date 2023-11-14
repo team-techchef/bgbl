@@ -25,7 +25,7 @@ drawer:
       books:
         - title: Chain Gang All Stars
           link: https://www.youtube.com/watch?v=bx0dvzOyG_4
-          img: /imgs/Nana Kwame Adjei-Brenyah.jpg
+          img: /imgs/Nana Kwame Adjei-Brenyah.jpeg
         - title: Roses, In The Mouth of A Lion
           link: https://www.youtube.com/watch?v=Nq745L5ZTos
           img: /imgs/Video Archive 2.jpg
