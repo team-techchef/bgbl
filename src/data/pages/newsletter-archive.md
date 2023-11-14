@@ -14,6 +14,18 @@ list:
       src: /imgs/cgtd_quote_bg.webp
       alt: ''
   newsletters:
+    - title: “A clear-eyed critique of our country's prison system, along with the profit and racism inherent in them.” —Salon
+      link: https://mailchi.mp/4fa53d90bdf8/look-college-girl-but-a-book-freak-on-the-weekends?fbclid=IwAR3K2ekJtaIgT5uGEq_VsKOB-r2u0k17NMxr6DaUwFjIBnsjpgjnL5bTFI8
+      img: /imgs/Newsletter1.png
+    - title: “Brilliant, layered, funny, and so insightful about the way communities, like hearts, are made and unmade. Alejandro Varela is a marvel.”—Justin Torres, author of We the Animals
+      link: https://us7.campaign-archive.com/?u=dce9a0fc69aa05a7b2a4be3ea&id=6a677748ce
+      img: /imgs/Newsletter #2.jpg
+    - title: “The Ancestors Schools A Basic Bitch.”-Airea D. Matthews.
+      link: https://us7.campaign-archive.com/?u=dce9a0fc69aa05a7b2a4be3ea&id=05da8a51e8
+      img: /imgs/Newsletter 3.jpg
+    - title: “I don’t trust answers because you are looking for definiteness in a world of complex meaning. Rather than trying to find answers that will not fulfill me, I’m trying to find peace in the humanity of uncertainty."-Jose Olivarez
+      link: https://us7.campaign-archive.com/?u=dce9a0fc69aa05a7b2a4be3ea&id=7fe94baae9
+      img: /imgs/Newsletter #4.jpg 
     - title: “People are trapped in history and history is trapped in them.”— James Baldwin
       link: https://mailchi.mp/6b4c3513e902/screw-church-and-all-religion-the-library-is-the-most-important-institution?fbclid=IwAR1X9U3MzN6wLP2Rxqhs3znG3SyQ2MsFsFwfNv2qf0VYQ5khorhocV5g8BU
       img: /imgs/Newsletter2.JPG.png
