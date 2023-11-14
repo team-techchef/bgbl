@@ -26,6 +26,21 @@ drawer:
         - title: Chain Gang All Stars
           link: https://www.youtube.com/watch?v=bx0dvzOyG_4
           img: /imgs/Nana Kwame Adjei-Brenyah (1).jpeg
+        - title: The People Who Report More Stress
+          link: https://www.youtube.com/watch?v=23EXfVj4Kis
+          img: /imgs/Alejandro-Varela.png
+        - title: Bread and Circus
+          link: https://www.youtube.com/watch?v=k-As_vncwuA
+          img: /imgs/Airea-D-Matthews.jpeg
+        - title: What Can I Tell You?
+          link: https://www.youtube.com/watch?v=zQnTB8HgRBg
+          img: /imgs/Roberto Carlos Garcia.jpg
+        - title: The Animated Universe
+          link: https://www.youtube.com/watch?v=dJ_jpJth1zM
+          img: /imgs/Samantha Thornhill.jpg
+        - title: Promises Of Gold
+          link: https://www.youtube.com/watch?v=0ONlMOma2J8
+          img: /imgs/Jose.jpeg
         - title: Roses, In The Mouth of A Lion
           link: https://www.youtube.com/watch?v=Nq745L5ZTos
           img: /imgs/Video Archive 2.jpg
