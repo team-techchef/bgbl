@@ -6,30 +6,6 @@ description: >-
   vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla
   facilisi morbi tempus.
 header: Workshops and Events
-upComingEvent:
-  title: Upcoming Events
-  events:
-    - title: "A Writing Workshop with Leslie-Ann Murray"
-      date: '3/12/2023'
-      image:
-        src: /imgs/VlvZhsow.jpeg
-        alt: "A Writing Workshop with Leslie-Ann Murray"
-      location: TFBWL Reading Room 226 Marcus Garvey BLVD Brooklyn, NY
-      link: #
-    - title: "Writing the Best College Addmission Essay"
-      date: '3/18/2023'
-      image:
-        src: /imgs/Flyer2.png
-        alt: "Writing the Best College Addmission Essay"
-      location: Online
-      link: #
-    - title: "8-week Online Fiction Writing Workshop"
-      date: '9/13/2022'
-      image:
-        src: /imgs/upcoming-event-new.png
-        alt: "8-week Online Fiction Writing Workshop"
-      location: Online (weekly video meet-up Tuesdays 7-9pm ET)
-      link: https://sackettworkshop.com/writing/2022/01/03/8-week-online-fiction-writing-i-ii-begins-week-of-2-7-22/
 pastEvent:
   title: Past Events
   events:
