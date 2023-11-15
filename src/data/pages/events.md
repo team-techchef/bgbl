@@ -26,6 +26,106 @@ pastEvent:
     #   details: /pdfs/events_8wofw.pdf
     - title:  
       image:
+        src: /imgs/IMG_5272.JPG
+        alt: 'IMG_5272.JPG'
+    - title:  
+      image:
+        src: /imgs/IMG_5594.JPG
+        alt: 'IMG_5594.JPG'
+    - title:  
+      image:
+        src: /imgs/IMG_5282.JPG
+        alt: 'IMG_5282.JPG'
+    - title:  
+      image:
+        src: /imgs/IMG_5983.JPG
+        alt: 'IMG_5983.JPG'
+    - title:  
+      image:
+        src: /imgs/IMG_4607.JPG
+        alt: 'IMG_4607.JPG'
+    - title:  
+      image:
+        src: /imgs/IMG_4635.JPG
+        alt: 'IMG_4635.JPG'
+    - title:  
+      image:
+        src: /imgs/IMG_4649.JPG
+        alt: 'IMG_4649.JPG'
+    - title:  
+      image:
+        src: /imgs/IMG_4723.JPG
+        alt: 'IMG_4723.JPG'
+    - title:  
+      image:
+        src: /imgs/IMG_5265.JPG
+        alt: 'IMG_5265.JPG'
+    - title:  
+      image:
+        src: /imgs/IMG_5290.JPG
+        alt: 'IMG_5290.JPG'
+    - title:  
+      image:
+        src: /imgs/IMG_6112.JPG
+        alt: 'IMG_6112.JPG'
+    - title:  
+      image:
+        src: /imgs/IMG_5260.JPG
+        alt: 'IMG_5260.JPG'
+    - title:  
+      image:
+        src: /imgs/IMG_5270.JPG
+        alt: 'IMG_5270.JPG'
+    - title:  
+      image:
+        src: /imgs/IMG_9667.jpg
+        alt: 'IMG_9667.jpg'
+    - title:  
+      image:
+        src: /imgs/IMG_9614.jpg
+        alt: 'IMG_9614.jpg'
+    - title:  
+      image:
+        src: /imgs/IMG_9600.jpg
+        alt: 'IMG_9600.jpg'
+    - title:  
+      image:
+        src: /imgs/IMG_0449.jpg
+        alt: 'IMG_0449.jpg'
+    - title:  
+      image:
+        src: /imgs/IMG_9745.jpg
+        alt: 'IMG_9745.jpg'
+    - title:  
+      image:
+        src: /imgs/IMG_9734.jpg
+        alt: 'IMG_9734.jpg'
+    - title:  
+      image:
+        src: /imgs/IMG_9729.jpg
+        alt: 'IMG_9729.jpg'
+    - title:  
+      image:
+        src: /imgs/IMG_0518.jpg
+        alt: 'IMG_0518.jpg'
+    - title:  
+      image:
+        src: /imgs/IMG_9624.JPG
+        alt: 'IMG_9624.JPG'
+    - title:  
+      image:
+        src: /imgs/IMG_4501.JPG
+        alt: 'IMG_4501.JPG'
+    - title:  
+      image:
+        src: /imgs/IMG_4657.JPG
+        alt: 'IMG_4657.JPG'
+    - title:  
+      image:
+        src: /imgs/IMG_5609.JPG
+        alt: 'IMG_5609.JPG'
+    - title:  ****
+      image:
         src: /imgs/IMG_9686.jpg
         alt: 'IMG_9686.jpg'
     - title: 'Another Sackett Street Writing class' 
