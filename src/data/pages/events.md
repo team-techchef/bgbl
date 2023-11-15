@@ -124,7 +124,7 @@ pastEvent:
       image:
         src: /imgs/IMG_5609.JPG
         alt: 'IMG_5609.JPG'
-    - title:  ****
+    - title:  
       image:
         src: /imgs/IMG_9686.jpg
         alt: 'IMG_9686.jpg'
