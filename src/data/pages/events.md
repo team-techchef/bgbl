@@ -24,6 +24,10 @@ pastEvent:
     #   location: Online (weekly video meet-up Tuesdays 7-9pm ET)
     #   link: https://sackettworkshop.com/writing/apply-now/
     #   details: /pdfs/events_8wofw.pdf
+    - title:  
+      image:
+        src: /imgs/IMG_9686.jpg
+        alt: 'IMG_9686.jpg'
     - title: 'Another Sackett Street Writing class' 
       image:
         src: /imgs/Another Sackett Street Writing class.png
